@@ -1,0 +1,402 @@
+<sams:resource xml:base="https://api.samstest.oup.com:443/REST/account/501588" xmlns="http://semantico.com/xmlns/sams-db" xmlns:sams="http://semantico.com/xmlns/sams" xmlns:x="http://www.w3.org/1999/xlink">
+   <contact_address_1/>
+   <contact_address_2/>
+   <contact_city/>
+   <contact_county/>
+   <contact_email/>
+   <contact_family_name/>
+   <contact_fax/>
+   <contact_given_name/>
+   <contact_job_title/>
+   <contact_mobile_telephone/>
+   <contact_postcode/>
+   <contact_telephone/>
+   <contact_title/>
+   <if_acc_id>348628</if_acc_id>
+   <msd_customer_id/>
+   <notes/>
+   <oed_sid>000348628</oed_sid>
+   <organisation>Tavie's Test Network</organisation>
+   <parent_acc_id/>
+   <vista_id/>
+   <account_type_id x:href="/REST/account_type/3" x:type="simple">
+      <description>Consortium</description>
+      <is_account_group>1</is_account_group>
+      <is_subscription_group>1</is_subscription_group>
+   </account_type_id>
+   <contact_country_id/>
+   <creation_date>2017-01-17 15:47:50</creation_date>
+   <group_acc_id/>
+   <maintainer/>
+   <org_size_id x:href="/REST/org_size/1" x:type="simple">
+      <description>Other</description>
+   </org_size_id>
+   <credential_userpass x:href="/REST/credential_userpass/2696435" x:type="simple">
+      <make_public>0</make_public>
+      <password>YCozAKTf</password>
+      <salt/>
+      <username>tavietest2017</username>
+      <credential_userpass_format_id x:href="/REST/credential_userpass_format/PLAIN" x:type="simple"/>
+      <group_member x:href="/REST/group_member/3247421" x:type="simple"/>
+      <group_member x:href="/REST/group_member/3247420" x:type="simple"/>
+      <autocreated/>
+   </credential_userpass>
+   <credential_userpass x:href="/REST/credential_userpass/2696434" x:type="simple">
+      <make_public>0</make_public>
+      <password>aYMC0d87</password>
+      <salt/>
+      <username>tavieste</username>
+      <credential_userpass_format_id x:href="/REST/credential_userpass_format/PLAIN" x:type="simple"/>
+      <group_member x:href="/REST/group_member/3247419" x:type="simple"/>
+      <group_member x:href="/REST/group_member/3247418" x:type="simple"/>
+      <autocreated/>
+   </credential_userpass>
+   <subscription x:href="/REST/subscription/1" x:type="simple">
+      <address1/>
+      <address2/>
+      <administered_by>USA</administered_by>
+      <allow_ip>1</allow_ip>
+      <allow_libcard>1</allow_libcard>
+      <allow_marketing_email>0</allow_marketing_email>
+      <allow_notification_email>0</allow_notification_email>
+      <allow_oauth>0</allow_oauth>
+      <allow_referrer>1</allow_referrer>
+      <allow_shibboleth>1</allow_shibboleth>
+      <allow_userpass>1</allow_userpass>
+      <alternative_subs_id/>
+      <city/>
+      <concurrency>-1</concurrency>
+      <contact_forename/>
+      <contact_job_title/>
+      <contact_mobile_telephone/>
+      <contact_name>Octavia Phillips</contact_name>
+      <contact_title/>
+      <conversion_date/>
+      <conversion_type/>
+      <county/>
+      <currency/>
+      <deny_groups>administrator,ip-editor,ss-limited</deny_groups>
+      <email>octavia.phillips@oup.com</email>
+      <fax/>
+      <grace_period>50 days</grace_period>
+      <if_sub_id>11</if_sub_id>
+      <ignore_end>0</ignore_end>
+      <ignore_start>1</ignore_start>
+      <is_inheritable>0</is_inheritable>
+      <isbn/>
+      <msd_order_id/>
+      <notes/>
+      <postcode/>
+      <prepayment_required>0</prepayment_required>
+      <price/>
+      <require_libcode>0</require_libcode>
+      <sales_rep/>
+      <satisfy_all_selected_creds>0</satisfy_all_selected_creds>
+      <status>OK</status>
+      <telephone/>
+      <acc_id x:href="/REST/account/501588" x:type="simple"/>
+      <concurrency_type_id x:href="/REST/concurrency_type/PER_PRODUCT" x:type="simple"/>
+      <contact_acc_id/>
+      <converted_to_sub_id/>
+      <country_id x:href="/REST/country/us" x:type="simple"/>
+      <creation_date>2017-12-11 16:58:48</creation_date>
+      <end_date>2017-10-26</end_date>
+      <group_subs_id/>
+      <pe_id x:href="/REST/product_edition/OREREL" x:type="simple"/>
+      <publication_medium_id x:href="/REST/publication_medium/ONLINE" x:type="simple"/>
+      <start_date>2017-09-26</start_date>
+      <subscription_type_id x:href="/REST/subscription_type/2" x:type="simple"/>
+      <named_user_config/>
+      <subscription_invoice/>
+   </subscription>
+   <subscription x:href="/REST/subscription/2" x:type="simple">
+      <address1/>
+      <address2/>
+      <administered_by>USA</administered_by>
+      <allow_ip>1</allow_ip>
+      <allow_libcard>1</allow_libcard>
+      <allow_marketing_email>0</allow_marketing_email>
+      <allow_notification_email>0</allow_notification_email>
+      <allow_oauth>0</allow_oauth>
+      <allow_referrer>1</allow_referrer>
+      <allow_shibboleth>1</allow_shibboleth>
+      <allow_userpass>1</allow_userpass>
+      <alternative_subs_id/>
+      <city/>
+      <concurrency>-1</concurrency>
+      <contact_forename/>
+      <contact_job_title/>
+      <contact_mobile_telephone/>
+      <contact_name>Octavia Phillips</contact_name>
+      <contact_title/>
+      <conversion_date/>
+      <conversion_type/>
+      <county/>
+      <currency/>
+      <deny_groups>administrator,ip-editor,ss-limited</deny_groups>
+      <email>octavia.phillips@oup.com</email>
+      <fax/>
+      <grace_period>00:00:00</grace_period>
+      <if_sub_id>22</if_sub_id>
+      <ignore_end>0</ignore_end>
+      <ignore_start>1</ignore_start>
+      <is_inheritable>0</is_inheritable>
+      <isbn/>
+      <msd_order_id/>
+      <notes/>
+      <postcode/>
+      <prepayment_required>0</prepayment_required>
+      <price/>
+      <require_libcode>0</require_libcode>
+      <sales_rep/>
+      <satisfy_all_selected_creds>0</satisfy_all_selected_creds>
+      <status>OK</status>
+      <telephone/>
+      <acc_id x:href="/REST/account/501588" x:type="simple"/>
+      <concurrency_type_id x:href="/REST/concurrency_type/PER_PRODUCT" x:type="simple"/>
+      <contact_acc_id/>
+      <converted_to_sub_id/>
+      <country_id x:href="/REST/country/us" x:type="simple"/>
+      <creation_date>2017-12-11 16:58:48</creation_date>
+      <end_date>2017-10-26</end_date>
+      <group_subs_id/>
+      <pe_id x:href="/REST/product_edition/OREPOL" x:type="simple"/>
+      <publication_medium_id x:href="/REST/publication_medium/ONLINE" x:type="simple"/>
+      <start_date>2017-09-26</start_date>
+      <subscription_type_id x:href="/REST/subscription_type/2" x:type="simple"/>
+      <named_user_config/>
+      <subscription_invoice/>
+   </subscription>
+   <subscription x:href="/REST/subscription/3" x:type="simple">
+      <address1/>
+      <address2/>
+      <administered_by>USA</administered_by>
+      <allow_ip>1</allow_ip>
+      <allow_libcard>1</allow_libcard>
+      <allow_marketing_email>0</allow_marketing_email>
+      <allow_notification_email>0</allow_notification_email>
+      <allow_oauth>0</allow_oauth>
+      <allow_referrer>1</allow_referrer>
+      <allow_shibboleth>1</allow_shibboleth>
+      <allow_userpass>1</allow_userpass>
+      <alternative_subs_id/>
+      <city/>
+      <concurrency>-1</concurrency>
+      <contact_forename/>
+      <contact_job_title/>
+      <contact_mobile_telephone/>
+      <contact_name>Octavia Phillips</contact_name>
+      <contact_title/>
+      <conversion_date/>
+      <conversion_type/>
+      <county/>
+      <currency/>
+      <deny_groups>administrator,ip-editor,ss-limited</deny_groups>
+      <email>octavia.phillips@oup.com</email>
+      <fax/>
+      <grace_period>00:00:00</grace_period>
+      <if_sub_id>33</if_sub_id>
+      <ignore_end>0</ignore_end>
+      <ignore_start>1</ignore_start>
+      <is_inheritable>0</is_inheritable>
+      <isbn/>
+      <msd_order_id/>
+      <notes/>
+      <postcode/>
+      <prepayment_required>0</prepayment_required>
+      <price/>
+      <require_libcode>0</require_libcode>
+      <sales_rep/>
+      <satisfy_all_selected_creds>0</satisfy_all_selected_creds>
+      <status>OK</status>
+      <telephone/>
+      <acc_id x:href="/REST/account/501588" x:type="simple"/>
+      <concurrency_type_id x:href="/REST/concurrency_type/PER_PRODUCT" x:type="simple"/>
+      <contact_acc_id/>
+      <converted_to_sub_id/>
+      <country_id x:href="/REST/country/us" x:type="simple"/>
+      <creation_date>2017-12-11 16:58:48</creation_date>
+      <end_date>2017-10-26</end_date>
+      <group_subs_id/>
+      <pe_id x:href="/REST/product_edition/ORELAMH" x:type="simple"/>
+      <publication_medium_id x:href="/REST/publication_medium/ONLINE" x:type="simple"/>
+      <start_date>2017-09-26</start_date>
+      <subscription_type_id x:href="/REST/subscription_type/2" x:type="simple"/>
+      <named_user_config/>
+      <subscription_invoice/>
+   </subscription>
+   <subscription x:href="/REST/subscription/4" x:type="simple">
+      <address1/>
+      <address2/>
+      <administered_by>USA</administered_by>
+      <allow_ip>1</allow_ip>
+      <allow_libcard>1</allow_libcard>
+      <allow_marketing_email>0</allow_marketing_email>
+      <allow_notification_email>0</allow_notification_email>
+      <allow_oauth>0</allow_oauth>
+      <allow_referrer>1</allow_referrer>
+      <allow_shibboleth>1</allow_shibboleth>
+      <allow_userpass>1</allow_userpass>
+      <alternative_subs_id/>
+      <city/>
+      <concurrency>-1</concurrency>
+      <contact_forename/>
+      <contact_job_title/>
+      <contact_mobile_telephone/>
+      <contact_name>Octavia Phillips</contact_name>
+      <contact_title/>
+      <conversion_date/>
+      <conversion_type/>
+      <county/>
+      <currency/>
+      <deny_groups>administrator,ip-editor,ss-limited</deny_groups>
+      <email>octavia.phillips@oup.com</email>
+      <fax/>
+      <grace_period>00:00:00</grace_period>
+      <if_sub_id>44</if_sub_id>
+      <ignore_end>0</ignore_end>
+      <ignore_start>1</ignore_start>
+      <is_inheritable>0</is_inheritable>
+      <isbn/>
+      <msd_order_id/>
+      <notes/>
+      <postcode/>
+      <prepayment_required>0</prepayment_required>
+      <price/>
+      <require_libcode>0</require_libcode>
+      <sales_rep/>
+      <satisfy_all_selected_creds>0</satisfy_all_selected_creds>
+      <status>OK</status>
+      <telephone/>
+      <acc_id x:href="/REST/account/501588" x:type="simple"/>
+      <concurrency_type_id x:href="/REST/concurrency_type/PER_PRODUCT" x:type="simple"/>
+      <contact_acc_id/>
+      <converted_to_sub_id/>
+      <country_id x:href="/REST/country/us" x:type="simple"/>
+      <creation_date>2017-12-11 16:58:48</creation_date>
+      <end_date>2017-10-26</end_date>
+      <group_subs_id/>
+      <pe_id x:href="/REST/product_edition/ORECOM" x:type="simple"/>
+      <publication_medium_id x:href="/REST/publication_medium/ONLINE" x:type="simple"/>
+      <start_date>2017-09-26</start_date>
+      <subscription_type_id x:href="/REST/subscription_type/2" x:type="simple"/>
+      <named_user_config/>
+      <subscription_invoice/>
+   </subscription>
+   <subscription x:href="/REST/subscription/5" x:type="simple">
+      <address1/>
+      <address2/>
+      <administered_by>USA</administered_by>
+      <allow_ip>1</allow_ip>
+      <allow_libcard>1</allow_libcard>
+      <allow_marketing_email>0</allow_marketing_email>
+      <allow_notification_email>0</allow_notification_email>
+      <allow_oauth>0</allow_oauth>
+      <allow_referrer>1</allow_referrer>
+      <allow_shibboleth>1</allow_shibboleth>
+      <allow_userpass>1</allow_userpass>
+      <alternative_subs_id/>
+      <city/>
+      <concurrency>-1</concurrency>
+      <contact_forename/>
+      <contact_job_title/>
+      <contact_mobile_telephone/>
+      <contact_name>Octavia Phillips</contact_name>
+      <contact_title/>
+      <conversion_date/>
+      <conversion_type/>
+      <county/>
+      <currency/>
+      <deny_groups>administrator,ip-editor,ss-limited</deny_groups>
+      <email>octavia.phillips@oup.com</email>
+      <fax/>
+      <grace_period>00:00:00</grace_period>
+      <if_sub_id>55</if_sub_id>
+      <ignore_end>0</ignore_end>
+      <ignore_start>1</ignore_start>
+      <is_inheritable>0</is_inheritable>
+      <isbn/>
+      <msd_order_id/>
+      <notes/>
+      <postcode/>
+      <prepayment_required>0</prepayment_required>
+      <price/>
+      <require_libcode>0</require_libcode>
+      <sales_rep/>
+      <satisfy_all_selected_creds>0</satisfy_all_selected_creds>
+      <status>Expired</status>
+      <telephone/>
+      <acc_id x:href="/REST/account/501588" x:type="simple"/>
+      <concurrency_type_id x:href="/REST/concurrency_type/PER_SITE" x:type="simple"/>
+      <contact_acc_id/>
+      <converted_to_sub_id/>
+      <country_id x:href="/REST/country/us" x:type="simple"/>
+      <creation_date>2017-12-11 16:58:48</creation_date>
+      <end_date>2017-10-26</end_date>
+      <group_subs_id/>
+      <pe_id x:href="/REST/product_edition/ORENHS" x:type="simple"/>
+      <publication_medium_id x:href="/REST/publication_medium/ONLINE" x:type="simple"/>
+      <start_date>2017-09-26</start_date>
+      <subscription_type_id x:href="/REST/subscription_type/2" x:type="simple"/>
+      <named_user_config/>
+      <subscription_invoice/>
+   </subscription>
+   <subscription x:href="/REST/subscription/6" x:type="simple">
+      <address1/>
+      <address2/>
+      <administered_by>USA</administered_by>
+      <allow_ip>1</allow_ip>
+      <allow_libcard>1</allow_libcard>
+      <allow_marketing_email>0</allow_marketing_email>
+      <allow_notification_email>0</allow_notification_email>
+      <allow_oauth>0</allow_oauth>
+      <allow_referrer>1</allow_referrer>
+      <allow_shibboleth>1</allow_shibboleth>
+      <allow_userpass>1</allow_userpass>
+      <alternative_subs_id/>
+      <city/>
+      <concurrency>-1</concurrency>
+      <contact_forename/>
+      <contact_job_title/>
+      <contact_mobile_telephone/>
+      <contact_name>Octavia Phillips</contact_name>
+      <contact_title/>
+      <conversion_date/>
+      <conversion_type/>
+      <county/>
+      <currency/>
+      <deny_groups>administrator,ip-editor,ss-limited</deny_groups>
+      <email>octavia.phillips@oup.com</email>
+      <fax/>
+      <grace_period>00:00:00</grace_period>
+      <if_sub_id></if_sub_id>
+      <ignore_end>0</ignore_end>
+      <ignore_start>1</ignore_start>
+      <is_inheritable>0</is_inheritable>
+      <isbn/>
+      <msd_order_id/>
+      <notes/>
+      <postcode/>
+      <prepayment_required>0</prepayment_required>
+      <price/>
+      <require_libcode>0</require_libcode>
+      <sales_rep/>
+      <satisfy_all_selected_creds>0</satisfy_all_selected_creds>
+      <status>OK</status>
+      <telephone/>
+      <acc_id x:href="/REST/account/501588" x:type="simple"/>
+      <concurrency_type_id x:href="/REST/concurrency_type/PER_SITE" x:type="simple"/>
+      <contact_acc_id/>
+      <converted_to_sub_id/>
+      <country_id x:href="/REST/country/us" x:type="simple"/>
+      <creation_date>2017-12-11 16:58:48</creation_date>
+      <end_date>2017-10-26</end_date>
+      <group_subs_id/>
+      <pe_id x:href="/REST/product_edition/ORECLA" x:type="simple"/>
+      <publication_medium_id x:href="/REST/publication_medium/ONLINE" x:type="simple"/>
+      <start_date>2017-09-26</start_date>
+      <subscription_type_id x:href="/REST/subscription_type/2" x:type="simple"/>
+      <named_user_config/>
+      <subscription_invoice/>
+   </subscription>
+</sams:resource>

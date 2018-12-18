@@ -1,0 +1,2344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sams:resource xml:base="https://api.samstest.oup.com:443/REST/account/10681" xmlns="http://semantico.com/xmlns/sams-db" xmlns:sams="http://semantico.com/xmlns/sams" xmlns:x="http://www.w3.org/1999/xlink">
+   <contact_address_1/>
+   <contact_address_2/>
+   <contact_city/>
+   <contact_county/>
+   <contact_email/>
+   <contact_family_name/>
+   <contact_fax/>
+   <contact_given_name/>
+   <contact_job_title/>
+   <contact_mobile_telephone/>
+   <contact_postcode/>
+   <contact_telephone/>
+   <contact_title/>
+   <if_acc_id>2423</if_acc_id>
+   <msd_customer_id/>
+   <notes>test2</notes>
+   <oed_sid>000002223</oed_sid>
+   <organisation>Bob Jones University</organisation>
+   <parent_acc_id/>
+   <vista_id/>
+   <account_type_id x:href="/REST/account_type/1" x:type="simple">
+      <description>Institution</description>
+      <is_account_group>0</is_account_group>
+      <is_subscription_group>0</is_subscription_group>
+   </account_type_id>
+   <contact_country_id/>
+   <creation_date>2007-01-22 06:40:16</creation_date>
+   <group_acc_id/>
+   <maintainer/>
+   <org_size_id x:href="/REST/org_size/1" x:type="simple">
+      <description>Other</description>
+   </org_size_id>
+   <credential_ip x:href="/REST/credential_ip/9075858" x:type="simple">
+      <allow>1</allow>
+      <ip_address>205.227.90.175</ip_address>
+   </credential_ip>
+   <credential_ip x:href="/REST/credential_ip/9075859" x:type="simple">
+      <allow>1</allow>
+      <ip_address>158.158.0.0/16</ip_address>
+   </credential_ip>
+   <credential_ip x:href="/REST/credential_ip/9075860" x:type="simple">
+      <allow>1</allow>
+      <ip_address>0.0.0.1</ip_address>
+   </credential_ip>
+   <credential_userpass x:href="/REST/credential_userpass/2311754" x:type="simple">
+      <make_public>0</make_public>
+      <password>Devil</password>
+      <salt/>
+      <username>thedevil</username>
+      <credential_userpass_format_id x:href="/REST/credential_userpass_format/PLAIN" x:type="simple">
+         <description>Plain text password with no encryption applied</description>
+      </credential_userpass_format_id>
+      <group_member x:href="/REST/group_member/2721694" x:type="simple">
+         <group_name_id x:href="/REST/group_name/administrator" x:type="simple">
+            <privilege_level>20</privilege_level>
+         </group_name_id>
+      </group_member>
+      <group_member x:href="/REST/group_member/2721693" x:type="simple">
+         <group_name_id x:href="/REST/group_name/ss-limited" x:type="simple">
+            <privilege_level>10</privilege_level>
+         </group_name_id>
+      </group_member>
+      <autocreated/>
+   </credential_userpass>
+   <credential_userpass x:href="/REST/credential_userpass/2311753" x:type="simple">
+      <make_public>0</make_public>
+      <password>Bju</password>
+      <salt/>
+      <username>bju</username>
+      <credential_userpass_format_id x:href="/REST/credential_userpass_format/PLAIN" x:type="simple">
+         <description>Plain text password with no encryption applied</description>
+      </credential_userpass_format_id>
+      <group_member x:href="/REST/group_member/2721692" x:type="simple">
+         <group_name_id x:href="/REST/group_name/administrator" x:type="simple">
+            <privilege_level>20</privilege_level>
+         </group_name_id>
+      </group_member>
+      <group_member x:href="/REST/group_member/2721691" x:type="simple">
+         <group_name_id x:href="/REST/group_name/ss-limited" x:type="simple">
+            <privilege_level>10</privilege_level>
+         </group_name_id>
+      </group_member>
+      <autocreated/>
+   </credential_userpass>
+   <account_preference x:href="/REST/account_preference/10681/are_downloadable_tools_enabled" x:type="simple">
+      <value>false</value>
+   </account_preference>
+   <account_preference x:href="/REST/account_preference/10681/is_worldcat_search" x:type="simple">
+      <value>false</value>
+   </account_preference>
+   <account_preference x:href="/REST/account_preference/10681/is_google_preview_search" x:type="simple">
+      <value>false</value>
+   </account_preference>
+   <account_preference x:href="/REST/account_preference/10681/is_artstor" x:type="simple">
+      <value>false</value>
+   </account_preference>
+   <account_preference x:href="/REST/account_preference/10681/is_worldcat_link" x:type="simple">
+      <value>false</value>
+   </account_preference>
+   <account_preference x:href="/REST/account_preference/10681/is_dram" x:type="simple">
+      <value>false</value>
+   </account_preference>
+   <account_preference x:href="/REST/account_preference/10681/is_google_preview_link" x:type="simple">
+      <value>false</value>
+   </account_preference>
+   <account_preference x:href="/REST/account_preference/10681/openurl_resolver" x:type="simple">
+      <value>http://resolver.ebscohost.com/openurl</value>
+   </account_preference>
+   <account_preference x:href="/REST/account_preference/10681/openurl_version" x:type="simple">
+      <value>1.0</value>
+   </account_preference>
+   <account_preference x:href="/REST/account_preference/10681/openurl_icon" x:type="simple">
+      <value>http://imageserver.ebscohost.com/branding/images/FTF.gif</value>
+   </account_preference>
+   <account_preference x:href="/REST/account_preference/10681/openurl_format" x:type="simple">
+      <value>kev</value>
+   </account_preference>
+   <account_preference x:href="/REST/account_preference/10681/is_openurl_enabled" x:type="simple">
+      <value>false</value>
+   </account_preference>
+   <account_preference x:href="/REST/account_preference/10681/return_subscription_preferences" x:type="simple">
+      <value>false</value>
+   </account_preference>
+   <subscription x:href="/REST/subscription/2741002" x:type="simple">
+      <address1/>
+      <address2/>
+      <administered_by>USA</administered_by>
+      <allow_ip>1</allow_ip>
+      <allow_libcard>1</allow_libcard>
+      <allow_marketing_email>0</allow_marketing_email>
+      <allow_notification_email>0</allow_notification_email>
+      <allow_oauth>0</allow_oauth>
+      <allow_referrer>1</allow_referrer>
+      <allow_shibboleth>1</allow_shibboleth>
+      <allow_userpass>1</allow_userpass>
+      <alternative_subs_id/>
+      <city/>
+      <concurrency>-1</concurrency>
+      <contact_forename/>
+      <contact_job_title/>
+      <contact_mobile_telephone/>
+      <contact_name>Nancy McGuire</contact_name>
+      <contact_title/>
+      <conversion_date/>
+      <conversion_type/>
+      <county/>
+      <currency/>
+      <deny_groups>administrator,ip-editor,ss-limited</deny_groups>
+      <email>Ncmcguir@bju.edu</email>
+      <fax/>
+      <grace_period>00:00:00</grace_period>
+      <if_sub_id>7858209</if_sub_id>
+      <ignore_end>1</ignore_end>
+      <ignore_start>1</ignore_start>
+      <is_inheritable>0</is_inheritable>
+      <isbn/>
+      <msd_order_id/>
+      <notes/>
+      <postcode/>
+      <prepayment_required>0</prepayment_required>
+      <price/>
+      <require_libcode>0</require_libcode>
+      <sales_rep/>
+      <satisfy_all_selected_creds>0</satisfy_all_selected_creds>
+      <status>OK</status>
+      <telephone/>
+      <acc_id x:href="/REST/account/10681" x:type="simple"/>
+      <concurrency_type_id x:href="/REST/concurrency_type/PER_SITE" x:type="simple"/>
+      <contact_acc_id/>
+      <converted_to_sub_id/>
+      <country_id x:href="/REST/country/us" x:type="simple">
+         <name>United States</name>
+         <territory>USA</territory>
+      </country_id>
+      <creation_date>2017-12-01 12:21:20</creation_date>
+      <end_date>2018-06-30</end_date>
+      <group_subs_id x:href="/REST/subscription/234224" x:type="simple"/>
+      <pe_id x:href="/REST/product_edition/ANB" x:type="simple">
+         <allow_ip_default>1</allow_ip_default>
+         <allow_libcard_default>1</allow_libcard_default>
+         <allow_oauth_default>0</allow_oauth_default>
+         <allow_referrer_default>1</allow_referrer_default>
+         <allow_shibboleth_default>1</allow_shibboleth_default>
+         <allow_userpass_default>1</allow_userpass_default>
+         <deny_groups_default>administrator,ip-editor,ss-limited</deny_groups_default>
+         <description/>
+         <image_filename/>
+         <immediate_access>1</immediate_access>
+         <is_inheritable_default>0</is_inheritable_default>
+         <isbn/>
+         <license_url/>
+         <notes/>
+         <notify/>
+         <pe_name>American National Biography</pe_name>
+         <product_type_id>suite</product_type_id>
+         <product_url>http://www.anb.org/</product_url>
+         <require_libcode_default>0</require_libcode_default>
+         <satisfy_all_selected_creds_default>0</satisfy_all_selected_creds_default>
+         <concurrency_type_id_default x:href="/REST/concurrency_type/PER_SITE" x:type="simple"/>
+         <site_id x:href="/REST/site/ANB" x:type="simple"/>
+         <product_content x:href="/REST/product_content/ANB/ANB" x:type="simple">
+            <content_unit_id x:href="/REST/content_unit/ANB" x:type="simple"/>
+         </product_content>
+      </pe_id>
+      <publication_medium_id x:href="/REST/publication_medium/ONLINE" x:type="simple">
+         <description>Online Only</description>
+      </publication_medium_id>
+      <start_date>2017-07-01</start_date>
+      <subscription_type_id x:href="/REST/subscription_type/1" x:type="simple">
+         <description>subscription</description>
+      </subscription_type_id>
+      <named_user_config/>
+      <subscription_invoice/>
+   </subscription>
+   <subscription x:href="/REST/subscription/2741003" x:type="simple">
+      <address1/>
+      <address2/>
+      <administered_by>USA</administered_by>
+      <allow_ip>1</allow_ip>
+      <allow_libcard>1</allow_libcard>
+      <allow_marketing_email>0</allow_marketing_email>
+      <allow_notification_email>0</allow_notification_email>
+      <allow_oauth>0</allow_oauth>
+      <allow_referrer>1</allow_referrer>
+      <allow_shibboleth>1</allow_shibboleth>
+      <allow_userpass>1</allow_userpass>
+      <alternative_subs_id/>
+      <city/>
+      <concurrency>8</concurrency>
+      <contact_forename/>
+      <contact_job_title/>
+      <contact_mobile_telephone/>
+      <contact_name>Nancy McGuire</contact_name>
+      <contact_title/>
+      <conversion_date/>
+      <conversion_type/>
+      <county/>
+      <currency/>
+      <deny_groups>administrator,ip-editor,ss-limited</deny_groups>
+      <email>Ncmcguir@bju.edu</email>
+      <fax/>
+      <grace_period>00:00:00</grace_period>
+      <if_sub_id>7858210</if_sub_id>
+      <ignore_end>1</ignore_end>
+      <ignore_start>1</ignore_start>
+      <is_inheritable>0</is_inheritable>
+      <isbn/>
+      <msd_order_id/>
+      <notes/>
+      <postcode/>
+      <prepayment_required>0</prepayment_required>
+      <price/>
+      <require_libcode>0</require_libcode>
+      <sales_rep/>
+      <satisfy_all_selected_creds>0</satisfy_all_selected_creds>
+      <status>OK</status>
+      <telephone/>
+      <acc_id x:href="/REST/account/10681" x:type="simple"/>
+      <concurrency_type_id x:href="/REST/concurrency_type/PER_SITE" x:type="simple"/>
+      <contact_acc_id/>
+      <converted_to_sub_id/>
+      <country_id x:href="/REST/country/us" x:type="simple">
+         <name>United States</name>
+         <territory>USA</territory>
+      </country_id>
+      <creation_date>2017-12-01 12:21:20</creation_date>
+      <end_date>2018-06-30</end_date>
+      <group_subs_id x:href="/REST/subscription/234248" x:type="simple"/>
+      <pe_id x:href="/REST/product_edition/GDM" x:type="simple">
+         <allow_ip_default>1</allow_ip_default>
+         <allow_libcard_default>1</allow_libcard_default>
+         <allow_oauth_default>0</allow_oauth_default>
+         <allow_referrer_default>1</allow_referrer_default>
+         <allow_shibboleth_default>1</allow_shibboleth_default>
+         <allow_userpass_default>1</allow_userpass_default>
+         <deny_groups_default>administrator,ip-editor,ss-limited</deny_groups_default>
+         <description/>
+         <image_filename/>
+         <immediate_access>1</immediate_access>
+         <is_inheritable_default>0</is_inheritable_default>
+         <isbn/>
+         <license_url/>
+         <notes/>
+         <notify/>
+         <pe_name>Grove Dictionary of Music</pe_name>
+         <product_type_id>suite</product_type_id>
+         <product_url>http://www.grovemusic.com/</product_url>
+         <require_libcode_default>0</require_libcode_default>
+         <satisfy_all_selected_creds_default>0</satisfy_all_selected_creds_default>
+         <concurrency_type_id_default x:href="/REST/concurrency_type/PER_SITE" x:type="simple"/>
+         <site_id x:href="/REST/site/GDM" x:type="simple"/>
+         <product_content x:href="/REST/product_content/GDM/omo_gmo" x:type="simple">
+            <content_unit_id x:href="/REST/content_unit/omo_gmo" x:type="simple"/>
+         </product_content>
+         <product_content x:href="/REST/product_content/GDM/omo_t114" x:type="simple">
+            <content_unit_id x:href="/REST/content_unit/omo_t114" x:type="simple"/>
+         </product_content>
+         <product_content x:href="/REST/product_content/GDM/omo_t237" x:type="simple">
+            <content_unit_id x:href="/REST/content_unit/omo_t237" x:type="simple"/>
+         </product_content>
+         <product_content x:href="/REST/product_content/GDM/GDM" x:type="simple">
+            <content_unit_id x:href="/REST/content_unit/GDM" x:type="simple"/>
+         </product_content>
+      </pe_id>
+      <publication_medium_id x:href="/REST/publication_medium/ONLINE" x:type="simple">
+         <description>Online Only</description>
+      </publication_medium_id>
+      <start_date>2017-07-01</start_date>
+      <subscription_type_id x:href="/REST/subscription_type/1" x:type="simple">
+         <description>subscription</description>
+      </subscription_type_id>
+      <named_user_config/>
+      <subscription_invoice/>
+   </subscription>
+   <subscription x:href="/REST/subscription/2741004" x:type="simple">
+      <address1/>
+      <address2/>
+      <administered_by>USA</administered_by>
+      <allow_ip>1</allow_ip>
+      <allow_libcard>1</allow_libcard>
+      <allow_marketing_email>0</allow_marketing_email>
+      <allow_notification_email>0</allow_notification_email>
+      <allow_oauth>0</allow_oauth>
+      <allow_referrer>1</allow_referrer>
+      <allow_shibboleth>1</allow_shibboleth>
+      <allow_userpass>1</allow_userpass>
+      <alternative_subs_id/>
+      <city/>
+      <concurrency>-1</concurrency>
+      <contact_forename/>
+      <contact_job_title/>
+      <contact_mobile_telephone/>
+      <contact_name>Nancy McGuire</contact_name>
+      <contact_title/>
+      <conversion_date/>
+      <conversion_type/>
+      <county/>
+      <currency/>
+      <deny_groups>administrator,ip-editor,ss-limited</deny_groups>
+      <email>Ncmcguir@bju.edu</email>
+      <fax/>
+      <grace_period>00:00:00</grace_period>
+      <if_sub_id>7858211</if_sub_id>
+      <ignore_end>1</ignore_end>
+      <ignore_start>1</ignore_start>
+      <is_inheritable>0</is_inheritable>
+      <isbn/>
+      <msd_order_id/>
+      <notes/>
+      <postcode/>
+      <prepayment_required>0</prepayment_required>
+      <price/>
+      <require_libcode>0</require_libcode>
+      <sales_rep/>
+      <satisfy_all_selected_creds>0</satisfy_all_selected_creds>
+      <status>OK</status>
+      <telephone/>
+      <acc_id x:href="/REST/account/10681" x:type="simple"/>
+      <concurrency_type_id x:href="/REST/concurrency_type/PER_SITE" x:type="simple"/>
+      <contact_acc_id/>
+      <converted_to_sub_id/>
+      <country_id x:href="/REST/country/us" x:type="simple">
+         <name>United States</name>
+         <territory>USA</territory>
+      </country_id>
+      <creation_date>2017-12-01 12:21:20</creation_date>
+      <end_date>2018-06-30</end_date>
+      <group_subs_id x:href="/REST/subscription/234247" x:type="simple"/>
+      <pe_id x:href="/REST/product_edition/OED" x:type="simple">
+         <allow_ip_default>1</allow_ip_default>
+         <allow_libcard_default>1</allow_libcard_default>
+         <allow_oauth_default>0</allow_oauth_default>
+         <allow_referrer_default>1</allow_referrer_default>
+         <allow_shibboleth_default>1</allow_shibboleth_default>
+         <allow_userpass_default>1</allow_userpass_default>
+         <deny_groups_default>administrator,ip-editor,ss-limited</deny_groups_default>
+         <description/>
+         <image_filename/>
+         <immediate_access>1</immediate_access>
+         <is_inheritable_default>0</is_inheritable_default>
+         <isbn/>
+         <license_url/>
+         <notes/>
+         <notify/>
+         <pe_name>Oxford English Dictionary</pe_name>
+         <product_type_id>suite</product_type_id>
+         <product_url>http://www.oed.com/</product_url>
+         <require_libcode_default>0</require_libcode_default>
+         <satisfy_all_selected_creds_default>0</satisfy_all_selected_creds_default>
+         <concurrency_type_id_default x:href="/REST/concurrency_type/PER_SITE" x:type="simple"/>
+         <site_id x:href="/REST/site/OED" x:type="simple"/>
+         <product_content x:href="/REST/product_content/OED/OED" x:type="simple">
+            <content_unit_id x:href="/REST/content_unit/OED" x:type="simple"/>
+         </product_content>
+      </pe_id>
+      <publication_medium_id x:href="/REST/publication_medium/ONLINE" x:type="simple">
+         <description>Online Only</description>
+      </publication_medium_id>
+      <start_date>2017-07-01</start_date>
+      <subscription_type_id x:href="/REST/subscription_type/1" x:type="simple">
+         <description>subscription</description>
+      </subscription_type_id>
+      <named_user_config/>
+      <subscription_invoice/>
+   </subscription>
+   <subscription x:href="/REST/subscription/2741005" x:type="simple">
+      <address1/>
+      <address2/>
+      <administered_by>USA</administered_by>
+      <allow_ip>1</allow_ip>
+      <allow_libcard>1</allow_libcard>
+      <allow_marketing_email>0</allow_marketing_email>
+      <allow_notification_email>0</allow_notification_email>
+      <allow_oauth>0</allow_oauth>
+      <allow_referrer>1</allow_referrer>
+      <allow_shibboleth>1</allow_shibboleth>
+      <allow_userpass>1</allow_userpass>
+      <alternative_subs_id/>
+      <city/>
+      <concurrency>-1</concurrency>
+      <contact_forename/>
+      <contact_job_title/>
+      <contact_mobile_telephone/>
+      <contact_name>Nancy McGuire</contact_name>
+      <contact_title/>
+      <conversion_date/>
+      <conversion_type/>
+      <county/>
+      <currency/>
+      <deny_groups>administrator,ip-editor,ss-limited</deny_groups>
+      <email>Ncmcguir@bju.edu</email>
+      <fax/>
+      <grace_period>00:00:00</grace_period>
+      <if_sub_id>7936979</if_sub_id>
+      <ignore_end>1</ignore_end>
+      <ignore_start>1</ignore_start>
+      <is_inheritable>0</is_inheritable>
+      <isbn/>
+      <msd_order_id/>
+      <notes/>
+      <postcode/>
+      <prepayment_required>0</prepayment_required>
+      <price/>
+      <require_libcode>0</require_libcode>
+      <sales_rep/>
+      <satisfy_all_selected_creds>0</satisfy_all_selected_creds>
+      <status>OK</status>
+      <telephone/>
+      <acc_id x:href="/REST/account/10681" x:type="simple"/>
+      <concurrency_type_id x:href="/REST/concurrency_type/PER_PRODUCT" x:type="simple"/>
+      <contact_acc_id/>
+      <converted_to_sub_id/>
+      <country_id x:href="/REST/country/us" x:type="simple">
+         <name>United States</name>
+         <territory>USA</territory>
+      </country_id>
+      <creation_date>2017-12-01 12:21:20</creation_date>
+      <end_date>2018-08-31</end_date>
+      <group_subs_id/>
+      <pe_id x:href="/REST/product_edition/PSYSEP12" x:type="simple">
+         <allow_ip_default>1</allow_ip_default>
+         <allow_libcard_default>1</allow_libcard_default>
+         <allow_oauth_default>0</allow_oauth_default>
+         <allow_referrer_default>1</allow_referrer_default>
+         <allow_shibboleth_default>1</allow_shibboleth_default>
+         <allow_userpass_default>1</allow_userpass_default>
+         <deny_groups_default>administrator,ip-editor,ss-limited</deny_groups_default>
+         <description/>
+         <image_filename/>
+         <immediate_access>1</immediate_access>
+         <is_inheritable_default>0</is_inheritable_default>
+         <isbn>9780199981311</isbn>
+         <license_url/>
+         <notes/>
+         <notify/>
+         <pe_name>OSO Psychology - Perpetual Access - September 2012 update only</pe_name>
+         <product_type_id>suite</product_type_id>
+         <product_url>http://www.oxfordscholarship.com</product_url>
+         <require_libcode_default>0</require_libcode_default>
+         <satisfy_all_selected_creds_default>0</satisfy_all_selected_creds_default>
+         <concurrency_type_id_default x:href="/REST/concurrency_type/PER_PRODUCT" x:type="simple"/>
+         <site_id x:href="/REST/site/OSO" x:type="simple"/>
+         <product_content x:href="/REST/product_content/PSYSEP12/pwe_20120901_psysep" x:type="simple">
+            <content_unit_id x:href="/REST/content_unit/pwe_20120901_psysep" x:type="simple"/>
+         </product_content>
+         <product_content x:href="/REST/product_content/PSYSEP12/pwe_20120901_psychology" x:type="simple">
+            <content_unit_id x:href="/REST/content_unit/pwe_20120901_psychology" x:type="simple"/>
+         </product_content>
+      </pe_id>
+      <publication_medium_id x:href="/REST/publication_medium/ONLINE" x:type="simple">
+         <description>Online Only</description>
+      </publication_medium_id>
+      <start_date>2017-09-01</start_date>
+      <subscription_type_id x:href="/REST/subscription_type/1" x:type="simple">
+         <description>subscription</description>
+      </subscription_type_id>
+      <named_user_config/>
+      <subscription_invoice/>
+   </subscription>
+   <subscription x:href="/REST/subscription/2741006" x:type="simple">
+      <address1/>
+      <address2/>
+      <administered_by>USA</administered_by>
+      <allow_ip>1</allow_ip>
+      <allow_libcard>1</allow_libcard>
+      <allow_marketing_email>0</allow_marketing_email>
+      <allow_notification_email>0</allow_notification_email>
+      <allow_oauth>0</allow_oauth>
+      <allow_referrer>1</allow_referrer>
+      <allow_shibboleth>1</allow_shibboleth>
+      <allow_userpass>1</allow_userpass>
+      <alternative_subs_id/>
+      <city/>
+      <concurrency>-1</concurrency>
+      <contact_forename/>
+      <contact_job_title/>
+      <contact_mobile_telephone/>
+      <contact_name>Nancy McGuire</contact_name>
+      <contact_title/>
+      <conversion_date/>
+      <conversion_type/>
+      <county/>
+      <currency/>
+      <deny_groups>administrator,ip-editor,ss-limited</deny_groups>
+      <email>Ncmcguir@bju.edu</email>
+      <fax/>
+      <grace_period>00:00:00</grace_period>
+      <if_sub_id>7936981</if_sub_id>
+      <ignore_end>1</ignore_end>
+      <ignore_start>1</ignore_start>
+      <is_inheritable>0</is_inheritable>
+      <isbn/>
+      <msd_order_id/>
+      <notes/>
+      <postcode/>
+      <prepayment_required>0</prepayment_required>
+      <price/>
+      <require_libcode>0</require_libcode>
+      <sales_rep/>
+      <satisfy_all_selected_creds>0</satisfy_all_selected_creds>
+      <status>OK</status>
+      <telephone/>
+      <acc_id x:href="/REST/account/10681" x:type="simple"/>
+      <concurrency_type_id x:href="/REST/concurrency_type/PER_PRODUCT" x:type="simple"/>
+      <contact_acc_id/>
+      <converted_to_sub_id/>
+      <country_id x:href="/REST/country/us" x:type="simple">
+         <name>United States</name>
+         <territory>USA</territory>
+      </country_id>
+      <creation_date>2017-12-01 12:21:20</creation_date>
+      <end_date>2018-08-31</end_date>
+      <group_subs_id/>
+      <pe_id x:href="/REST/product_edition/PSYJAN12" x:type="simple">
+         <allow_ip_default>1</allow_ip_default>
+         <allow_libcard_default>1</allow_libcard_default>
+         <allow_oauth_default>0</allow_oauth_default>
+         <allow_referrer_default>1</allow_referrer_default>
+         <allow_shibboleth_default>1</allow_shibboleth_default>
+         <allow_userpass_default>1</allow_userpass_default>
+         <deny_groups_default>administrator,ip-editor,ss-limited</deny_groups_default>
+         <description/>
+         <image_filename/>
+         <immediate_access>1</immediate_access>
+         <is_inheritable_default>0</is_inheritable_default>
+         <isbn/>
+         <license_url/>
+         <notes/>
+         <notify/>
+         <pe_name>OSO Psychology - Perpetual Access - January 2012 Update Only</pe_name>
+         <product_type_id>suite</product_type_id>
+         <product_url>http://www.oxfordscholarship.com</product_url>
+         <require_libcode_default>0</require_libcode_default>
+         <satisfy_all_selected_creds_default>0</satisfy_all_selected_creds_default>
+         <concurrency_type_id_default x:href="/REST/concurrency_type/PER_PRODUCT" x:type="simple"/>
+         <site_id x:href="/REST/site/OSO" x:type="simple"/>
+         <product_content x:href="/REST/product_content/PSYJAN12/pwe_20120101_psychology" x:type="simple">
+            <content_unit_id x:href="/REST/content_unit/pwe_20120101_psychology" x:type="simple"/>
+         </product_content>
+      </pe_id>
+      <publication_medium_id x:href="/REST/publication_medium/ONLINE" x:type="simple">
+         <description>Online Only</description>
+      </publication_medium_id>
+      <start_date>2017-09-01</start_date>
+      <subscription_type_id x:href="/REST/subscription_type/1" x:type="simple">
+         <description>subscription</description>
+      </subscription_type_id>
+      <named_user_config/>
+      <subscription_invoice/>
+   </subscription>
+   <subscription x:href="/REST/subscription/2741007" x:type="simple">
+      <address1/>
+      <address2/>
+      <administered_by>USA</administered_by>
+      <allow_ip>1</allow_ip>
+      <allow_libcard>1</allow_libcard>
+      <allow_marketing_email>0</allow_marketing_email>
+      <allow_notification_email>0</allow_notification_email>
+      <allow_oauth>0</allow_oauth>
+      <allow_referrer>1</allow_referrer>
+      <allow_shibboleth>1</allow_shibboleth>
+      <allow_userpass>1</allow_userpass>
+      <alternative_subs_id/>
+      <city/>
+      <concurrency>-1</concurrency>
+      <contact_forename/>
+      <contact_job_title/>
+      <contact_mobile_telephone/>
+      <contact_name>Nancy McGuire</contact_name>
+      <contact_title/>
+      <conversion_date/>
+      <conversion_type/>
+      <county/>
+      <currency/>
+      <deny_groups>administrator,ip-editor,ss-limited</deny_groups>
+      <email>Ncmcguir@bju.edu</email>
+      <fax/>
+      <grace_period>00:00:00</grace_period>
+      <if_sub_id>7936989</if_sub_id>
+      <ignore_end>1</ignore_end>
+      <ignore_start>1</ignore_start>
+      <is_inheritable>0</is_inheritable>
+      <isbn/>
+      <msd_order_id/>
+      <notes/>
+      <postcode/>
+      <prepayment_required>0</prepayment_required>
+      <price/>
+      <require_libcode>0</require_libcode>
+      <sales_rep/>
+      <satisfy_all_selected_creds>0</satisfy_all_selected_creds>
+      <status>OK</status>
+      <telephone/>
+      <acc_id x:href="/REST/account/10681" x:type="simple"/>
+      <concurrency_type_id x:href="/REST/concurrency_type/PER_PRODUCT" x:type="simple"/>
+      <contact_acc_id/>
+      <converted_to_sub_id/>
+      <country_id x:href="/REST/country/us" x:type="simple">
+         <name>United States</name>
+         <territory>USA</territory>
+      </country_id>
+      <creation_date>2017-12-01 12:21:20</creation_date>
+      <end_date>2018-08-31</end_date>
+      <group_subs_id/>
+      <pe_id x:href="/REST/product_edition/PSYDBLM12" x:type="simple">
+         <allow_ip_default>1</allow_ip_default>
+         <allow_libcard_default>1</allow_libcard_default>
+         <allow_oauth_default>0</allow_oauth_default>
+         <allow_referrer_default>1</allow_referrer_default>
+         <allow_shibboleth_default>1</allow_shibboleth_default>
+         <allow_userpass_default>1</allow_userpass_default>
+         <deny_groups_default>administrator,ip-editor,ss-limited</deny_groups_default>
+         <description/>
+         <image_filename/>
+         <immediate_access>1</immediate_access>
+         <is_inheritable_default>0</is_inheritable_default>
+         <isbn/>
+         <license_url/>
+         <notes/>
+         <notify/>
+         <pe_name>OSO Psychology - Perpetual Access - March 12 Archive update only</pe_name>
+         <product_type_id>suite</product_type_id>
+         <product_url>http://www.oxfordscholarship.com</product_url>
+         <require_libcode_default>0</require_libcode_default>
+         <satisfy_all_selected_creds_default>0</satisfy_all_selected_creds_default>
+         <concurrency_type_id_default x:href="/REST/concurrency_type/PER_PRODUCT" x:type="simple"/>
+         <site_id x:href="/REST/site/OSO" x:type="simple"/>
+         <product_content x:href="/REST/product_content/PSYDBLM12/pwe_20120301_psy" x:type="simple">
+            <content_unit_id x:href="/REST/content_unit/pwe_20120301_psy" x:type="simple"/>
+         </product_content>
+      </pe_id>
+      <publication_medium_id x:href="/REST/publication_medium/ONLINE" x:type="simple">
+         <description>Online Only</description>
+      </publication_medium_id>
+      <start_date>2017-09-01</start_date>
+      <subscription_type_id x:href="/REST/subscription_type/1" x:type="simple">
+         <description>subscription</description>
+      </subscription_type_id>
+      <named_user_config/>
+      <subscription_invoice/>
+   </subscription>
+   <subscription x:href="/REST/subscription/2741008" x:type="simple">
+      <address1/>
+      <address2/>
+      <administered_by>USA</administered_by>
+      <allow_ip>1</allow_ip>
+      <allow_libcard>1</allow_libcard>
+      <allow_marketing_email>0</allow_marketing_email>
+      <allow_notification_email>0</allow_notification_email>
+      <allow_oauth>0</allow_oauth>
+      <allow_referrer>1</allow_referrer>
+      <allow_shibboleth>1</allow_shibboleth>
+      <allow_userpass>1</allow_userpass>
+      <alternative_subs_id/>
+      <city/>
+      <concurrency>-1</concurrency>
+      <contact_forename/>
+      <contact_job_title/>
+      <contact_mobile_telephone/>
+      <contact_name>Nancy McGuire</contact_name>
+      <contact_title/>
+      <conversion_date/>
+      <conversion_type/>
+      <county/>
+      <currency/>
+      <deny_groups>administrator,ip-editor,ss-limited</deny_groups>
+      <email>Ncmcguir@bju.edu</email>
+      <fax/>
+      <grace_period>00:00:00</grace_period>
+      <if_sub_id>7936971</if_sub_id>
+      <ignore_end>1</ignore_end>
+      <ignore_start>1</ignore_start>
+      <is_inheritable>0</is_inheritable>
+      <isbn/>
+      <msd_order_id/>
+      <notes/>
+      <postcode/>
+      <prepayment_required>0</prepayment_required>
+      <price/>
+      <require_libcode>0</require_libcode>
+      <sales_rep/>
+      <satisfy_all_selected_creds>0</satisfy_all_selected_creds>
+      <status>OK</status>
+      <telephone/>
+      <acc_id x:href="/REST/account/10681" x:type="simple"/>
+      <concurrency_type_id x:href="/REST/concurrency_type/PER_PRODUCT" x:type="simple"/>
+      <contact_acc_id/>
+      <converted_to_sub_id/>
+      <country_id x:href="/REST/country/us" x:type="simple">
+         <name>United States</name>
+         <territory>USA</territory>
+      </country_id>
+      <creation_date>2017-12-01 12:21:20</creation_date>
+      <end_date>2018-08-31</end_date>
+      <group_subs_id/>
+      <pe_id x:href="/REST/product_edition/PSYMAY12" x:type="simple">
+         <allow_ip_default>1</allow_ip_default>
+         <allow_libcard_default>1</allow_libcard_default>
+         <allow_oauth_default>0</allow_oauth_default>
+         <allow_referrer_default>1</allow_referrer_default>
+         <allow_shibboleth_default>1</allow_shibboleth_default>
+         <allow_userpass_default>1</allow_userpass_default>
+         <deny_groups_default>administrator,ip-editor,ss-limited</deny_groups_default>
+         <description/>
+         <image_filename/>
+         <immediate_access>1</immediate_access>
+         <is_inheritable_default>0</is_inheritable_default>
+         <isbn>9780199958801</isbn>
+         <license_url/>
+         <notes/>
+         <notify/>
+         <pe_name>OSO Psychology - Perpetual Access - May 2012 update only</pe_name>
+         <product_type_id>suite</product_type_id>
+         <product_url>http://www.oxfordscholarship.com</product_url>
+         <require_libcode_default>0</require_libcode_default>
+         <satisfy_all_selected_creds_default>0</satisfy_all_selected_creds_default>
+         <concurrency_type_id_default x:href="/REST/concurrency_type/PER_PRODUCT" x:type="simple"/>
+         <site_id x:href="/REST/site/OSO" x:type="simple"/>
+         <product_content x:href="/REST/product_content/PSYMAY12/pwe_20120501_psychology" x:type="simple">
+            <content_unit_id x:href="/REST/content_unit/pwe_20120501_psychology" x:type="simple"/>
+         </product_content>
+      </pe_id>
+      <publication_medium_id x:href="/REST/publication_medium/ONLINE" x:type="simple">
+         <description>Online Only</description>
+      </publication_medium_id>
+      <start_date>2017-09-01</start_date>
+      <subscription_type_id x:href="/REST/subscription_type/1" x:type="simple">
+         <description>subscription</description>
+      </subscription_type_id>
+      <named_user_config/>
+      <subscription_invoice/>
+   </subscription>
+   <subscription x:href="/REST/subscription/2741009" x:type="simple">
+      <address1/>
+      <address2/>
+      <administered_by>USA</administered_by>
+      <allow_ip>1</allow_ip>
+      <allow_libcard>1</allow_libcard>
+      <allow_marketing_email>0</allow_marketing_email>
+      <allow_notification_email>0</allow_notification_email>
+      <allow_oauth>0</allow_oauth>
+      <allow_referrer>1</allow_referrer>
+      <allow_shibboleth>1</allow_shibboleth>
+      <allow_userpass>1</allow_userpass>
+      <alternative_subs_id/>
+      <city/>
+      <concurrency>-1</concurrency>
+      <contact_forename/>
+      <contact_job_title/>
+      <contact_mobile_telephone/>
+      <contact_name>Nancy McGuire</contact_name>
+      <contact_title/>
+      <conversion_date/>
+      <conversion_type/>
+      <county/>
+      <currency/>
+      <deny_groups>administrator,ip-editor,ss-limited</deny_groups>
+      <email>Ncmcguir@bju.edu</email>
+      <fax/>
+      <grace_period>00:00:00</grace_period>
+      <if_sub_id>7936983</if_sub_id>
+      <ignore_end>1</ignore_end>
+      <ignore_start>1</ignore_start>
+      <is_inheritable>0</is_inheritable>
+      <isbn/>
+      <msd_order_id/>
+      <notes/>
+      <postcode/>
+      <prepayment_required>0</prepayment_required>
+      <price/>
+      <require_libcode>0</require_libcode>
+      <sales_rep/>
+      <satisfy_all_selected_creds>0</satisfy_all_selected_creds>
+      <status>OK</status>
+      <telephone/>
+      <acc_id x:href="/REST/account/10681" x:type="simple"/>
+      <concurrency_type_id x:href="/REST/concurrency_type/PER_PRODUCT" x:type="simple"/>
+      <contact_acc_id/>
+      <converted_to_sub_id/>
+      <country_id x:href="/REST/country/us" x:type="simple">
+         <name>United States</name>
+         <territory>USA</territory>
+      </country_id>
+      <creation_date>2017-12-01 12:21:20</creation_date>
+      <end_date>2018-08-31</end_date>
+      <group_subs_id/>
+      <pe_id x:href="/REST/product_edition/PSYJAN13" x:type="simple">
+         <allow_ip_default>1</allow_ip_default>
+         <allow_libcard_default>1</allow_libcard_default>
+         <allow_oauth_default>0</allow_oauth_default>
+         <allow_referrer_default>1</allow_referrer_default>
+         <allow_shibboleth_default>1</allow_shibboleth_default>
+         <allow_userpass_default>1</allow_userpass_default>
+         <deny_groups_default>administrator,ip-editor,ss-limited</deny_groups_default>
+         <description/>
+         <image_filename/>
+         <immediate_access>1</immediate_access>
+         <is_inheritable_default>0</is_inheritable_default>
+         <isbn/>
+         <license_url/>
+         <notes/>
+         <notify/>
+         <pe_name>OSO Psychology - Perpetual Access - January 2013 update only</pe_name>
+         <product_type_id>suite</product_type_id>
+         <product_url>http://www.oxfordscholarship.com</product_url>
+         <require_libcode_default>0</require_libcode_default>
+         <satisfy_all_selected_creds_default>0</satisfy_all_selected_creds_default>
+         <concurrency_type_id_default x:href="/REST/concurrency_type/PER_PRODUCT" x:type="simple"/>
+         <site_id x:href="/REST/site/OSO" x:type="simple"/>
+         <product_content x:href="/REST/product_content/PSYJAN13/pwe_20130101_psychology" x:type="simple">
+            <content_unit_id x:href="/REST/content_unit/pwe_20130101_psychology" x:type="simple"/>
+         </product_content>
+      </pe_id>
+      <publication_medium_id x:href="/REST/publication_medium/ONLINE" x:type="simple">
+         <description>Online Only</description>
+      </publication_medium_id>
+      <start_date>2017-09-01</start_date>
+      <subscription_type_id x:href="/REST/subscription_type/1" x:type="simple">
+         <description>subscription</description>
+      </subscription_type_id>
+      <named_user_config/>
+      <subscription_invoice/>
+   </subscription>
+   <subscription x:href="/REST/subscription/2741010" x:type="simple">
+      <address1/>
+      <address2/>
+      <administered_by>USA</administered_by>
+      <allow_ip>1</allow_ip>
+      <allow_libcard>1</allow_libcard>
+      <allow_marketing_email>0</allow_marketing_email>
+      <allow_notification_email>0</allow_notification_email>
+      <allow_oauth>0</allow_oauth>
+      <allow_referrer>1</allow_referrer>
+      <allow_shibboleth>1</allow_shibboleth>
+      <allow_userpass>1</allow_userpass>
+      <alternative_subs_id/>
+      <city/>
+      <concurrency>-1</concurrency>
+      <contact_forename/>
+      <contact_job_title/>
+      <contact_mobile_telephone/>
+      <contact_name>Nancy McGuire</contact_name>
+      <contact_title/>
+      <conversion_date/>
+      <conversion_type/>
+      <county/>
+      <currency/>
+      <deny_groups>administrator,ip-editor,ss-limited</deny_groups>
+      <email>Ncmcguir@bju.edu</email>
+      <fax/>
+      <grace_period>00:00:00</grace_period>
+      <if_sub_id>7936969</if_sub_id>
+      <ignore_end>1</ignore_end>
+      <ignore_start>1</ignore_start>
+      <is_inheritable>0</is_inheritable>
+      <isbn/>
+      <msd_order_id/>
+      <notes/>
+      <postcode/>
+      <prepayment_required>0</prepayment_required>
+      <price/>
+      <require_libcode>0</require_libcode>
+      <sales_rep/>
+      <satisfy_all_selected_creds>0</satisfy_all_selected_creds>
+      <status>OK</status>
+      <telephone/>
+      <acc_id x:href="/REST/account/10681" x:type="simple"/>
+      <concurrency_type_id x:href="/REST/concurrency_type/PER_PRODUCT" x:type="simple"/>
+      <contact_acc_id/>
+      <converted_to_sub_id/>
+      <country_id x:href="/REST/country/us" x:type="simple">
+         <name>United States</name>
+         <territory>USA</territory>
+      </country_id>
+      <creation_date>2017-12-01 12:21:20</creation_date>
+      <end_date>2018-08-31</end_date>
+      <group_subs_id/>
+      <pe_id x:href="/REST/product_edition/PSYMAY13" x:type="simple">
+         <allow_ip_default>1</allow_ip_default>
+         <allow_libcard_default>1</allow_libcard_default>
+         <allow_oauth_default>0</allow_oauth_default>
+         <allow_referrer_default>1</allow_referrer_default>
+         <allow_shibboleth_default>1</allow_shibboleth_default>
+         <allow_userpass_default>1</allow_userpass_default>
+         <deny_groups_default>administrator,ip-editor,ss-limited</deny_groups_default>
+         <description/>
+         <image_filename/>
+         <immediate_access>1</immediate_access>
+         <is_inheritable_default>0</is_inheritable_default>
+         <isbn/>
+         <license_url/>
+         <notes/>
+         <notify/>
+         <pe_name>OSO Psychology - Perpetual Access - May 2013 update only</pe_name>
+         <product_type_id>suite</product_type_id>
+         <product_url>http://www.oxfordscholarship.com</product_url>
+         <require_libcode_default>0</require_libcode_default>
+         <satisfy_all_selected_creds_default>0</satisfy_all_selected_creds_default>
+         <concurrency_type_id_default x:href="/REST/concurrency_type/PER_PRODUCT" x:type="simple"/>
+         <site_id x:href="/REST/site/OSO" x:type="simple"/>
+         <product_content x:href="/REST/product_content/PSYMAY13/pwe_20130523_psychology" x:type="simple">
+            <content_unit_id x:href="/REST/content_unit/pwe_20130523_psychology" x:type="simple"/>
+         </product_content>
+      </pe_id>
+      <publication_medium_id x:href="/REST/publication_medium/ONLINE" x:type="simple">
+         <description>Online Only</description>
+      </publication_medium_id>
+      <start_date>2017-09-01</start_date>
+      <subscription_type_id x:href="/REST/subscription_type/1" x:type="simple">
+         <description>subscription</description>
+      </subscription_type_id>
+      <named_user_config/>
+      <subscription_invoice/>
+   </subscription>
+   <subscription x:href="/REST/subscription/2741011" x:type="simple">
+      <address1/>
+      <address2/>
+      <administered_by>USA</administered_by>
+      <allow_ip>1</allow_ip>
+      <allow_libcard>1</allow_libcard>
+      <allow_marketing_email>0</allow_marketing_email>
+      <allow_notification_email>0</allow_notification_email>
+      <allow_oauth>0</allow_oauth>
+      <allow_referrer>1</allow_referrer>
+      <allow_shibboleth>1</allow_shibboleth>
+      <allow_userpass>1</allow_userpass>
+      <alternative_subs_id/>
+      <city/>
+      <concurrency>-1</concurrency>
+      <contact_forename/>
+      <contact_job_title/>
+      <contact_mobile_telephone/>
+      <contact_name>Nancy McGuire</contact_name>
+      <contact_title/>
+      <conversion_date/>
+      <conversion_type/>
+      <county/>
+      <currency/>
+      <deny_groups>administrator,ip-editor,ss-limited</deny_groups>
+      <email>Ncmcguir@bju.edu</email>
+      <fax/>
+      <grace_period>00:00:00</grace_period>
+      <if_sub_id>7936967</if_sub_id>
+      <ignore_end>1</ignore_end>
+      <ignore_start>1</ignore_start>
+      <is_inheritable>0</is_inheritable>
+      <isbn/>
+      <msd_order_id/>
+      <notes/>
+      <postcode/>
+      <prepayment_required>0</prepayment_required>
+      <price/>
+      <require_libcode>0</require_libcode>
+      <sales_rep/>
+      <satisfy_all_selected_creds>0</satisfy_all_selected_creds>
+      <status>OK</status>
+      <telephone/>
+      <acc_id x:href="/REST/account/10681" x:type="simple"/>
+      <concurrency_type_id x:href="/REST/concurrency_type/PER_PRODUCT" x:type="simple"/>
+      <contact_acc_id/>
+      <converted_to_sub_id/>
+      <country_id x:href="/REST/country/us" x:type="simple">
+         <name>United States</name>
+         <territory>USA</territory>
+      </country_id>
+      <creation_date>2017-12-01 12:21:20</creation_date>
+      <end_date>2018-08-31</end_date>
+      <group_subs_id/>
+      <pe_id x:href="/REST/product_edition/PSYJAN14" x:type="simple">
+         <allow_ip_default>1</allow_ip_default>
+         <allow_libcard_default>1</allow_libcard_default>
+         <allow_oauth_default>0</allow_oauth_default>
+         <allow_referrer_default>1</allow_referrer_default>
+         <allow_shibboleth_default>1</allow_shibboleth_default>
+         <allow_userpass_default>1</allow_userpass_default>
+         <deny_groups_default>administrator,ip-editor,ss-limited</deny_groups_default>
+         <description/>
+         <image_filename/>
+         <immediate_access>1</immediate_access>
+         <is_inheritable_default>0</is_inheritable_default>
+         <isbn/>
+         <license_url/>
+         <notes/>
+         <notify/>
+         <pe_name>OSO Psychology - Perpetual Access - January 2014 update only</pe_name>
+         <product_type_id>suite</product_type_id>
+         <product_url>http://www.oxfordscholarship.com/</product_url>
+         <require_libcode_default>0</require_libcode_default>
+         <satisfy_all_selected_creds_default>0</satisfy_all_selected_creds_default>
+         <concurrency_type_id_default x:href="/REST/concurrency_type/PER_PRODUCT" x:type="simple"/>
+         <site_id x:href="/REST/site/OSO" x:type="simple"/>
+         <product_content x:href="/REST/product_content/PSYJAN14/pwe_20140123_psychology" x:type="simple">
+            <content_unit_id x:href="/REST/content_unit/pwe_20140123_psychology" x:type="simple"/>
+         </product_content>
+      </pe_id>
+      <publication_medium_id x:href="/REST/publication_medium/ONLINE" x:type="simple">
+         <description>Online Only</description>
+      </publication_medium_id>
+      <start_date>2017-09-01</start_date>
+      <subscription_type_id x:href="/REST/subscription_type/1" x:type="simple">
+         <description>subscription</description>
+      </subscription_type_id>
+      <named_user_config/>
+      <subscription_invoice/>
+   </subscription>
+   <subscription x:href="/REST/subscription/2741012" x:type="simple">
+      <address1/>
+      <address2/>
+      <administered_by>USA</administered_by>
+      <allow_ip>1</allow_ip>
+      <allow_libcard>1</allow_libcard>
+      <allow_marketing_email>0</allow_marketing_email>
+      <allow_notification_email>0</allow_notification_email>
+      <allow_oauth>0</allow_oauth>
+      <allow_referrer>1</allow_referrer>
+      <allow_shibboleth>1</allow_shibboleth>
+      <allow_userpass>1</allow_userpass>
+      <alternative_subs_id/>
+      <city/>
+      <concurrency>-1</concurrency>
+      <contact_forename/>
+      <contact_job_title/>
+      <contact_mobile_telephone/>
+      <contact_name>Nancy McGuire</contact_name>
+      <contact_title/>
+      <conversion_date/>
+      <conversion_type/>
+      <county/>
+      <currency/>
+      <deny_groups>administrator,ip-editor,ss-limited</deny_groups>
+      <email>Ncmcguir@bju.edu</email>
+      <fax/>
+      <grace_period>00:00:00</grace_period>
+      <if_sub_id>4052836</if_sub_id>
+      <ignore_end>1</ignore_end>
+      <ignore_start>1</ignore_start>
+      <is_inheritable>0</is_inheritable>
+      <isbn/>
+      <msd_order_id/>
+      <notes/>
+      <postcode/>
+      <prepayment_required>0</prepayment_required>
+      <price/>
+      <require_libcode>0</require_libcode>
+      <sales_rep/>
+      <satisfy_all_selected_creds>0</satisfy_all_selected_creds>
+      <status>OK</status>
+      <telephone/>
+      <acc_id x:href="/REST/account/10681" x:type="simple"/>
+      <concurrency_type_id x:href="/REST/concurrency_type/PER_PRODUCT" x:type="simple"/>
+      <contact_acc_id/>
+      <converted_to_sub_id/>
+      <country_id x:href="/REST/country/us" x:type="simple">
+         <name>United States</name>
+         <territory>USA</territory>
+      </country_id>
+      <creation_date>2017-12-01 12:21:20</creation_date>
+      <end_date/>
+      <group_subs_id/>
+      <pe_id x:href="/REST/product_edition/MITPSYAUG13" x:type="simple">
+         <allow_ip_default>1</allow_ip_default>
+         <allow_libcard_default>1</allow_libcard_default>
+         <allow_oauth_default>0</allow_oauth_default>
+         <allow_referrer_default>1</allow_referrer_default>
+         <allow_shibboleth_default>1</allow_shibboleth_default>
+         <allow_userpass_default>1</allow_userpass_default>
+         <deny_groups_default>administrator,ip-editor,ss-limited</deny_groups_default>
+         <description/>
+         <image_filename/>
+         <immediate_access>1</immediate_access>
+         <is_inheritable_default>0</is_inheritable_default>
+         <isbn/>
+         <license_url/>
+         <notes/>
+         <notify/>
+         <pe_name>MITSO Psychology - Perpetual Access - August 2013 update only</pe_name>
+         <product_type_id>suite</product_type_id>
+         <product_url>http://www.mit.universitypressscholarship.com</product_url>
+         <require_libcode_default>0</require_libcode_default>
+         <satisfy_all_selected_creds_default>0</satisfy_all_selected_creds_default>
+         <concurrency_type_id_default x:href="/REST/concurrency_type/PER_PRODUCT" x:type="simple"/>
+         <site_id x:href="/REST/site/MITSO" x:type="simple"/>
+         <product_content x:href="/REST/product_content/MITPSYAUG13/pwe_20130822_mitso_psycology" x:type="simple">
+            <content_unit_id x:href="/REST/content_unit/pwe_20130822_mitso_psycology" x:type="simple"/>
+         </product_content>
+      </pe_id>
+      <publication_medium_id x:href="/REST/publication_medium/ONLINE" x:type="simple">
+         <description>Online Only</description>
+      </publication_medium_id>
+      <start_date>2015-09-01</start_date>
+      <subscription_type_id x:href="/REST/subscription_type/1" x:type="simple">
+         <description>subscription</description>
+      </subscription_type_id>
+      <named_user_config/>
+      <subscription_invoice/>
+   </subscription>
+   <subscription x:href="/REST/subscription/2741013" x:type="simple">
+      <address1/>
+      <address2/>
+      <administered_by>USA</administered_by>
+      <allow_ip>1</allow_ip>
+      <allow_libcard>1</allow_libcard>
+      <allow_marketing_email>0</allow_marketing_email>
+      <allow_notification_email>0</allow_notification_email>
+      <allow_oauth>0</allow_oauth>
+      <allow_referrer>1</allow_referrer>
+      <allow_shibboleth>1</allow_shibboleth>
+      <allow_userpass>1</allow_userpass>
+      <alternative_subs_id/>
+      <city/>
+      <concurrency>-1</concurrency>
+      <contact_forename/>
+      <contact_job_title/>
+      <contact_mobile_telephone/>
+      <contact_name>Nancy McGuire</contact_name>
+      <contact_title/>
+      <conversion_date/>
+      <conversion_type/>
+      <county/>
+      <currency/>
+      <deny_groups>administrator,ip-editor,ss-limited</deny_groups>
+      <email>Ncmcguir@bju.edu</email>
+      <fax/>
+      <grace_period>00:00:00</grace_period>
+      <if_sub_id>7936975</if_sub_id>
+      <ignore_end>1</ignore_end>
+      <ignore_start>1</ignore_start>
+      <is_inheritable>0</is_inheritable>
+      <isbn/>
+      <msd_order_id/>
+      <notes/>
+      <postcode/>
+      <prepayment_required>0</prepayment_required>
+      <price/>
+      <require_libcode>0</require_libcode>
+      <sales_rep/>
+      <satisfy_all_selected_creds>0</satisfy_all_selected_creds>
+      <status>OK</status>
+      <telephone/>
+      <acc_id x:href="/REST/account/10681" x:type="simple"/>
+      <concurrency_type_id x:href="/REST/concurrency_type/PER_PRODUCT" x:type="simple"/>
+      <contact_acc_id/>
+      <converted_to_sub_id/>
+      <country_id x:href="/REST/country/us" x:type="simple">
+         <name>United States</name>
+         <territory>USA</territory>
+      </country_id>
+      <creation_date>2017-12-01 12:21:20</creation_date>
+      <end_date>2018-08-31</end_date>
+      <group_subs_id/>
+      <pe_id x:href="/REST/product_edition/PSYSEP13" x:type="simple">
+         <allow_ip_default>1</allow_ip_default>
+         <allow_libcard_default>1</allow_libcard_default>
+         <allow_oauth_default>0</allow_oauth_default>
+         <allow_referrer_default>1</allow_referrer_default>
+         <allow_shibboleth_default>1</allow_shibboleth_default>
+         <allow_userpass_default>1</allow_userpass_default>
+         <deny_groups_default>administrator,ip-editor,ss-limited</deny_groups_default>
+         <description/>
+         <image_filename/>
+         <immediate_access>1</immediate_access>
+         <is_inheritable_default>0</is_inheritable_default>
+         <isbn/>
+         <license_url/>
+         <notes/>
+         <notify/>
+         <pe_name>OSO Psychology - Perpetual Access - September 2013 update only</pe_name>
+         <product_type_id>suite</product_type_id>
+         <product_url>http://www.oxfordscholarship.com/</product_url>
+         <require_libcode_default>0</require_libcode_default>
+         <satisfy_all_selected_creds_default>0</satisfy_all_selected_creds_default>
+         <concurrency_type_id_default x:href="/REST/concurrency_type/PER_PRODUCT" x:type="simple"/>
+         <site_id x:href="/REST/site/OSO" x:type="simple"/>
+         <product_content x:href="/REST/product_content/PSYSEP13/pwe_20130926_psychology" x:type="simple">
+            <content_unit_id x:href="/REST/content_unit/pwe_20130926_psychology" x:type="simple"/>
+         </product_content>
+      </pe_id>
+      <publication_medium_id x:href="/REST/publication_medium/ONLINE" x:type="simple">
+         <description>Online Only</description>
+      </publication_medium_id>
+      <start_date>2017-09-01</start_date>
+      <subscription_type_id x:href="/REST/subscription_type/1" x:type="simple">
+         <description>subscription</description>
+      </subscription_type_id>
+      <named_user_config/>
+      <subscription_invoice/>
+   </subscription>
+   <subscription x:href="/REST/subscription/2741014" x:type="simple">
+      <address1/>
+      <address2/>
+      <administered_by>USA</administered_by>
+      <allow_ip>1</allow_ip>
+      <allow_libcard>1</allow_libcard>
+      <allow_marketing_email>0</allow_marketing_email>
+      <allow_notification_email>0</allow_notification_email>
+      <allow_oauth>0</allow_oauth>
+      <allow_referrer>1</allow_referrer>
+      <allow_shibboleth>1</allow_shibboleth>
+      <allow_userpass>1</allow_userpass>
+      <alternative_subs_id/>
+      <city/>
+      <concurrency>-1</concurrency>
+      <contact_forename/>
+      <contact_job_title/>
+      <contact_mobile_telephone/>
+      <contact_name>Nancy McGuire</contact_name>
+      <contact_title/>
+      <conversion_date/>
+      <conversion_type/>
+      <county/>
+      <currency/>
+      <deny_groups>administrator,ip-editor,ss-limited</deny_groups>
+      <email>Ncmcguir@bju.edu</email>
+      <fax/>
+      <grace_period>00:00:00</grace_period>
+      <if_sub_id>7936987</if_sub_id>
+      <ignore_end>1</ignore_end>
+      <ignore_start>1</ignore_start>
+      <is_inheritable>0</is_inheritable>
+      <isbn/>
+      <msd_order_id/>
+      <notes/>
+      <postcode/>
+      <prepayment_required>0</prepayment_required>
+      <price/>
+      <require_libcode>0</require_libcode>
+      <sales_rep/>
+      <satisfy_all_selected_creds>0</satisfy_all_selected_creds>
+      <status>OK</status>
+      <telephone/>
+      <acc_id x:href="/REST/account/10681" x:type="simple"/>
+      <concurrency_type_id x:href="/REST/concurrency_type/PER_PRODUCT" x:type="simple"/>
+      <contact_acc_id/>
+      <converted_to_sub_id/>
+      <country_id x:href="/REST/country/us" x:type="simple">
+         <name>United States</name>
+         <territory>USA</territory>
+      </country_id>
+      <creation_date>2017-12-01 12:21:20</creation_date>
+      <end_date>2018-08-31</end_date>
+      <group_subs_id/>
+      <pe_id x:href="/REST/product_edition/YPSYOCT13" x:type="simple">
+         <allow_ip_default>1</allow_ip_default>
+         <allow_libcard_default>1</allow_libcard_default>
+         <allow_oauth_default>0</allow_oauth_default>
+         <allow_referrer_default>1</allow_referrer_default>
+         <allow_shibboleth_default>1</allow_shibboleth_default>
+         <allow_userpass_default>1</allow_userpass_default>
+         <deny_groups_default>administrator,ip-editor,ss-limited</deny_groups_default>
+         <description/>
+         <image_filename/>
+         <immediate_access>1</immediate_access>
+         <is_inheritable_default>0</is_inheritable_default>
+         <isbn/>
+         <license_url/>
+         <notes/>
+         <notify/>
+         <pe_name>YSO Psychology - Perpetual Access - October 2013 update only</pe_name>
+         <product_type_id>suite</product_type_id>
+         <product_url>http://www.yale.universitypressscholarship.com</product_url>
+         <require_libcode_default>0</require_libcode_default>
+         <satisfy_all_selected_creds_default>0</satisfy_all_selected_creds_default>
+         <concurrency_type_id_default x:href="/REST/concurrency_type/PER_PRODUCT" x:type="simple"/>
+         <site_id x:href="/REST/site/YSO" x:type="simple"/>
+         <product_content x:href="/REST/product_content/YPSYOCT13/pwe_20131024_yso_psycology" x:type="simple">
+            <content_unit_id x:href="/REST/content_unit/pwe_20131024_yso_psycology" x:type="simple"/>
+         </product_content>
+      </pe_id>
+      <publication_medium_id x:href="/REST/publication_medium/ONLINE" x:type="simple">
+         <description>Online Only</description>
+      </publication_medium_id>
+      <start_date>2017-09-01</start_date>
+      <subscription_type_id x:href="/REST/subscription_type/1" x:type="simple">
+         <description>subscription</description>
+      </subscription_type_id>
+      <named_user_config/>
+      <subscription_invoice/>
+   </subscription>
+   <subscription x:href="/REST/subscription/2741015" x:type="simple">
+      <address1/>
+      <address2/>
+      <administered_by>USA</administered_by>
+      <allow_ip>1</allow_ip>
+      <allow_libcard>1</allow_libcard>
+      <allow_marketing_email>0</allow_marketing_email>
+      <allow_notification_email>0</allow_notification_email>
+      <allow_oauth>0</allow_oauth>
+      <allow_referrer>1</allow_referrer>
+      <allow_shibboleth>1</allow_shibboleth>
+      <allow_userpass>1</allow_userpass>
+      <alternative_subs_id/>
+      <city/>
+      <concurrency>-1</concurrency>
+      <contact_forename/>
+      <contact_job_title/>
+      <contact_mobile_telephone/>
+      <contact_name>Nancy McGuire</contact_name>
+      <contact_title/>
+      <conversion_date/>
+      <conversion_type/>
+      <county/>
+      <currency/>
+      <deny_groups>administrator,ip-editor,ss-limited</deny_groups>
+      <email>Ncmcguir@bju.edu</email>
+      <fax/>
+      <grace_period>00:00:00</grace_period>
+      <if_sub_id>7936977</if_sub_id>
+      <ignore_end>1</ignore_end>
+      <ignore_start>1</ignore_start>
+      <is_inheritable>0</is_inheritable>
+      <isbn/>
+      <msd_order_id/>
+      <notes/>
+      <postcode/>
+      <prepayment_required>0</prepayment_required>
+      <price/>
+      <require_libcode>0</require_libcode>
+      <sales_rep/>
+      <satisfy_all_selected_creds>0</satisfy_all_selected_creds>
+      <status>OK</status>
+      <telephone/>
+      <acc_id x:href="/REST/account/10681" x:type="simple"/>
+      <concurrency_type_id x:href="/REST/concurrency_type/PER_PRODUCT" x:type="simple"/>
+      <contact_acc_id/>
+      <converted_to_sub_id/>
+      <country_id x:href="/REST/country/us" x:type="simple">
+         <name>United States</name>
+         <territory>USA</territory>
+      </country_id>
+      <creation_date>2017-12-01 12:21:20</creation_date>
+      <end_date>2018-08-31</end_date>
+      <group_subs_id/>
+      <pe_id x:href="/REST/product_edition/PSYMAY14" x:type="simple">
+         <allow_ip_default>1</allow_ip_default>
+         <allow_libcard_default>1</allow_libcard_default>
+         <allow_oauth_default>0</allow_oauth_default>
+         <allow_referrer_default>1</allow_referrer_default>
+         <allow_shibboleth_default>1</allow_shibboleth_default>
+         <allow_userpass_default>1</allow_userpass_default>
+         <deny_groups_default>administrator,ip-editor,ss-limited</deny_groups_default>
+         <description/>
+         <image_filename/>
+         <immediate_access>1</immediate_access>
+         <is_inheritable_default>0</is_inheritable_default>
+         <isbn/>
+         <license_url/>
+         <notes/>
+         <notify/>
+         <pe_name>OSO Psychology - Perpetual Access - Titles added April 2014 to May 2014</pe_name>
+         <product_type_id>suite</product_type_id>
+         <product_url>http://www.oxfordscholarship.com/</product_url>
+         <require_libcode_default>0</require_libcode_default>
+         <satisfy_all_selected_creds_default>0</satisfy_all_selected_creds_default>
+         <concurrency_type_id_default x:href="/REST/concurrency_type/PER_PRODUCT" x:type="simple"/>
+         <site_id x:href="/REST/site/OSO" x:type="simple"/>
+         <product_content x:href="/REST/product_content/PSYMAY14/pwe_20140416_psychology" x:type="simple">
+            <content_unit_id x:href="/REST/content_unit/pwe_20140416_psychology" x:type="simple"/>
+         </product_content>
+      </pe_id>
+      <publication_medium_id x:href="/REST/publication_medium/ONLINE" x:type="simple">
+         <description>Online Only</description>
+      </publication_medium_id>
+      <start_date>2017-09-01</start_date>
+      <subscription_type_id x:href="/REST/subscription_type/1" x:type="simple">
+         <description>subscription</description>
+      </subscription_type_id>
+      <named_user_config/>
+      <subscription_invoice/>
+   </subscription>
+   <subscription x:href="/REST/subscription/2741016" x:type="simple">
+      <address1/>
+      <address2/>
+      <administered_by>USA</administered_by>
+      <allow_ip>1</allow_ip>
+      <allow_libcard>1</allow_libcard>
+      <allow_marketing_email>0</allow_marketing_email>
+      <allow_notification_email>0</allow_notification_email>
+      <allow_oauth>0</allow_oauth>
+      <allow_referrer>1</allow_referrer>
+      <allow_shibboleth>1</allow_shibboleth>
+      <allow_userpass>1</allow_userpass>
+      <alternative_subs_id/>
+      <city/>
+      <concurrency>-1</concurrency>
+      <contact_forename/>
+      <contact_job_title/>
+      <contact_mobile_telephone/>
+      <contact_name>Nancy McGuire</contact_name>
+      <contact_title/>
+      <conversion_date/>
+      <conversion_type/>
+      <county/>
+      <currency/>
+      <deny_groups>administrator,ip-editor,ss-limited</deny_groups>
+      <email>Ncmcguir@bju.edu</email>
+      <fax/>
+      <grace_period>00:00:00</grace_period>
+      <if_sub_id>7936985</if_sub_id>
+      <ignore_end>1</ignore_end>
+      <ignore_start>1</ignore_start>
+      <is_inheritable>0</is_inheritable>
+      <isbn/>
+      <msd_order_id/>
+      <notes/>
+      <postcode/>
+      <prepayment_required>0</prepayment_required>
+      <price/>
+      <require_libcode>0</require_libcode>
+      <sales_rep/>
+      <satisfy_all_selected_creds>0</satisfy_all_selected_creds>
+      <status>OK</status>
+      <telephone/>
+      <acc_id x:href="/REST/account/10681" x:type="simple"/>
+      <concurrency_type_id x:href="/REST/concurrency_type/PER_PRODUCT" x:type="simple"/>
+      <contact_acc_id/>
+      <converted_to_sub_id/>
+      <country_id x:href="/REST/country/us" x:type="simple">
+         <name>United States</name>
+         <territory>USA</territory>
+      </country_id>
+      <creation_date>2017-12-01 12:21:20</creation_date>
+      <end_date>2018-08-31</end_date>
+      <group_subs_id/>
+      <pe_id x:href="/REST/product_edition/YPSYJAN14" x:type="simple">
+         <allow_ip_default>1</allow_ip_default>
+         <allow_libcard_default>1</allow_libcard_default>
+         <allow_oauth_default>0</allow_oauth_default>
+         <allow_referrer_default>1</allow_referrer_default>
+         <allow_shibboleth_default>1</allow_shibboleth_default>
+         <allow_userpass_default>1</allow_userpass_default>
+         <deny_groups_default>administrator,ip-editor,ss-limited</deny_groups_default>
+         <description/>
+         <image_filename/>
+         <immediate_access>1</immediate_access>
+         <is_inheritable_default>0</is_inheritable_default>
+         <isbn/>
+         <license_url/>
+         <notes/>
+         <notify/>
+         <pe_name>YSO Psychology - Perpetual Access - January 2014 update only</pe_name>
+         <product_type_id>suite</product_type_id>
+         <product_url>http://yale.universitypressscholarship.com/</product_url>
+         <require_libcode_default>0</require_libcode_default>
+         <satisfy_all_selected_creds_default>0</satisfy_all_selected_creds_default>
+         <concurrency_type_id_default x:href="/REST/concurrency_type/PER_PRODUCT" x:type="simple"/>
+         <site_id x:href="/REST/site/YSO" x:type="simple"/>
+         <product_content x:href="/REST/product_content/YPSYJAN14/pwe_20140123_yso_psycology" x:type="simple">
+            <content_unit_id x:href="/REST/content_unit/pwe_20140123_yso_psycology" x:type="simple"/>
+         </product_content>
+      </pe_id>
+      <publication_medium_id x:href="/REST/publication_medium/ONLINE" x:type="simple">
+         <description>Online Only</description>
+      </publication_medium_id>
+      <start_date>2017-09-01</start_date>
+      <subscription_type_id x:href="/REST/subscription_type/1" x:type="simple">
+         <description>subscription</description>
+      </subscription_type_id>
+      <named_user_config/>
+      <subscription_invoice/>
+   </subscription>
+   <subscription x:href="/REST/subscription/2741017" x:type="simple">
+      <address1/>
+      <address2/>
+      <administered_by>USA</administered_by>
+      <allow_ip>1</allow_ip>
+      <allow_libcard>1</allow_libcard>
+      <allow_marketing_email>0</allow_marketing_email>
+      <allow_notification_email>0</allow_notification_email>
+      <allow_oauth>0</allow_oauth>
+      <allow_referrer>1</allow_referrer>
+      <allow_shibboleth>1</allow_shibboleth>
+      <allow_userpass>1</allow_userpass>
+      <alternative_subs_id/>
+      <city/>
+      <concurrency>-1</concurrency>
+      <contact_forename/>
+      <contact_job_title/>
+      <contact_mobile_telephone/>
+      <contact_name>Nancy McGuire</contact_name>
+      <contact_title/>
+      <conversion_date/>
+      <conversion_type/>
+      <county/>
+      <currency/>
+      <deny_groups>administrator,ip-editor,ss-limited</deny_groups>
+      <email>Ncmcguir@bju.edu</email>
+      <fax/>
+      <grace_period>00:00:00</grace_period>
+      <if_sub_id>7993766</if_sub_id>
+      <ignore_end>1</ignore_end>
+      <ignore_start>1</ignore_start>
+      <is_inheritable>0</is_inheritable>
+      <isbn/>
+      <msd_order_id/>
+      <notes/>
+      <postcode/>
+      <prepayment_required>0</prepayment_required>
+      <price/>
+      <require_libcode>0</require_libcode>
+      <sales_rep/>
+      <satisfy_all_selected_creds>0</satisfy_all_selected_creds>
+      <status>OK</status>
+      <telephone/>
+      <acc_id x:href="/REST/account/10681" x:type="simple"/>
+      <concurrency_type_id x:href="/REST/concurrency_type/PER_PRODUCT" x:type="simple"/>
+      <contact_acc_id/>
+      <converted_to_sub_id/>
+      <country_id x:href="/REST/country/us" x:type="simple">
+         <name>United States</name>
+         <territory>USA</territory>
+      </country_id>
+      <creation_date>2017-12-01 12:21:20</creation_date>
+      <end_date>2018-09-30</end_date>
+      <group_subs_id/>
+      <pe_id x:href="/REST/product_edition/PSYSEP14" x:type="simple">
+         <allow_ip_default>1</allow_ip_default>
+         <allow_libcard_default>1</allow_libcard_default>
+         <allow_oauth_default>0</allow_oauth_default>
+         <allow_referrer_default>1</allow_referrer_default>
+         <allow_shibboleth_default>1</allow_shibboleth_default>
+         <allow_userpass_default>1</allow_userpass_default>
+         <deny_groups_default>administrator,ip-editor,ss-limited</deny_groups_default>
+         <description/>
+         <image_filename/>
+         <immediate_access>1</immediate_access>
+         <is_inheritable_default>0</is_inheritable_default>
+         <isbn/>
+         <license_url/>
+         <notes/>
+         <notify/>
+         <pe_name>OSO Psychology - Perpetual Access - Titles added June 2014 to September 2014</pe_name>
+         <product_type_id>suite</product_type_id>
+         <product_url>http://www.oxfordscholarship.com</product_url>
+         <require_libcode_default>0</require_libcode_default>
+         <satisfy_all_selected_creds_default>0</satisfy_all_selected_creds_default>
+         <concurrency_type_id_default x:href="/REST/concurrency_type/PER_PRODUCT" x:type="simple"/>
+         <site_id x:href="/REST/site/OSO" x:type="simple"/>
+         <product_content x:href="/REST/product_content/PSYSEP14/pwe_20140619_psychology" x:type="simple">
+            <content_unit_id x:href="/REST/content_unit/pwe_20140619_psychology" x:type="simple"/>
+         </product_content>
+         <product_content x:href="/REST/product_content/PSYSEP14/pwe_20140821_psychology" x:type="simple">
+            <content_unit_id x:href="/REST/content_unit/pwe_20140821_psychology" x:type="simple"/>
+         </product_content>
+         <product_content x:href="/REST/product_content/PSYSEP14/pwe_20140918_psychology" x:type="simple">
+            <content_unit_id x:href="/REST/content_unit/pwe_20140918_psychology" x:type="simple"/>
+         </product_content>
+      </pe_id>
+      <publication_medium_id x:href="/REST/publication_medium/ONLINE" x:type="simple">
+         <description>Online Only</description>
+      </publication_medium_id>
+      <start_date>2017-10-01</start_date>
+      <subscription_type_id x:href="/REST/subscription_type/1" x:type="simple">
+         <description>subscription</description>
+      </subscription_type_id>
+      <named_user_config/>
+      <subscription_invoice/>
+   </subscription>
+   <subscription x:href="/REST/subscription/2741018" x:type="simple">
+      <address1/>
+      <address2/>
+      <administered_by>USA</administered_by>
+      <allow_ip>1</allow_ip>
+      <allow_libcard>1</allow_libcard>
+      <allow_marketing_email>0</allow_marketing_email>
+      <allow_notification_email>0</allow_notification_email>
+      <allow_oauth>0</allow_oauth>
+      <allow_referrer>1</allow_referrer>
+      <allow_shibboleth>1</allow_shibboleth>
+      <allow_userpass>1</allow_userpass>
+      <alternative_subs_id/>
+      <city/>
+      <concurrency>-1</concurrency>
+      <contact_forename/>
+      <contact_job_title/>
+      <contact_mobile_telephone/>
+      <contact_name>Nancy McGuire</contact_name>
+      <contact_title/>
+      <conversion_date/>
+      <conversion_type/>
+      <county/>
+      <currency/>
+      <deny_groups>administrator,ip-editor,ss-limited</deny_groups>
+      <email>Ncmcguir@bju.edu</email>
+      <fax/>
+      <grace_period>00:00:00</grace_period>
+      <if_sub_id>4496375</if_sub_id>
+      <ignore_end>1</ignore_end>
+      <ignore_start>1</ignore_start>
+      <is_inheritable>0</is_inheritable>
+      <isbn/>
+      <msd_order_id/>
+      <notes/>
+      <postcode/>
+      <prepayment_required>0</prepayment_required>
+      <price/>
+      <require_libcode>0</require_libcode>
+      <sales_rep/>
+      <satisfy_all_selected_creds>0</satisfy_all_selected_creds>
+      <status>OK</status>
+      <telephone/>
+      <acc_id x:href="/REST/account/10681" x:type="simple"/>
+      <concurrency_type_id x:href="/REST/concurrency_type/PER_PRODUCT" x:type="simple"/>
+      <contact_acc_id/>
+      <converted_to_sub_id/>
+      <country_id x:href="/REST/country/us" x:type="simple">
+         <name>United States</name>
+         <territory>USA</territory>
+      </country_id>
+      <creation_date>2017-12-01 12:21:20</creation_date>
+      <end_date>2017-09-30</end_date>
+      <group_subs_id/>
+      <pe_id x:href="/REST/product_edition/PSYSEP14" x:type="simple">
+         <allow_ip_default>1</allow_ip_default>
+         <allow_libcard_default>1</allow_libcard_default>
+         <allow_oauth_default>0</allow_oauth_default>
+         <allow_referrer_default>1</allow_referrer_default>
+         <allow_shibboleth_default>1</allow_shibboleth_default>
+         <allow_userpass_default>1</allow_userpass_default>
+         <deny_groups_default>administrator,ip-editor,ss-limited</deny_groups_default>
+         <description/>
+         <image_filename/>
+         <immediate_access>1</immediate_access>
+         <is_inheritable_default>0</is_inheritable_default>
+         <isbn/>
+         <license_url/>
+         <notes/>
+         <notify/>
+         <pe_name>OSO Psychology - Perpetual Access - Titles added June 2014 to September 2014</pe_name>
+         <product_type_id>suite</product_type_id>
+         <product_url>http://www.oxfordscholarship.com</product_url>
+         <require_libcode_default>0</require_libcode_default>
+         <satisfy_all_selected_creds_default>0</satisfy_all_selected_creds_default>
+         <concurrency_type_id_default x:href="/REST/concurrency_type/PER_PRODUCT" x:type="simple"/>
+         <site_id x:href="/REST/site/OSO" x:type="simple"/>
+         <product_content x:href="/REST/product_content/PSYSEP14/pwe_20140619_psychology" x:type="simple">
+            <content_unit_id x:href="/REST/content_unit/pwe_20140619_psychology" x:type="simple"/>
+         </product_content>
+         <product_content x:href="/REST/product_content/PSYSEP14/pwe_20140821_psychology" x:type="simple">
+            <content_unit_id x:href="/REST/content_unit/pwe_20140821_psychology" x:type="simple"/>
+         </product_content>
+         <product_content x:href="/REST/product_content/PSYSEP14/pwe_20140918_psychology" x:type="simple">
+            <content_unit_id x:href="/REST/content_unit/pwe_20140918_psychology" x:type="simple"/>
+         </product_content>
+      </pe_id>
+      <publication_medium_id x:href="/REST/publication_medium/ONLINE" x:type="simple">
+         <description>Online Only</description>
+      </publication_medium_id>
+      <start_date>2016-10-01</start_date>
+      <subscription_type_id x:href="/REST/subscription_type/1" x:type="simple">
+         <description>subscription</description>
+      </subscription_type_id>
+      <named_user_config/>
+      <subscription_invoice/>
+   </subscription>
+   <subscription x:href="/REST/subscription/2741019" x:type="simple">
+      <address1/>
+      <address2/>
+      <administered_by>USA</administered_by>
+      <allow_ip>1</allow_ip>
+      <allow_libcard>1</allow_libcard>
+      <allow_marketing_email>0</allow_marketing_email>
+      <allow_notification_email>0</allow_notification_email>
+      <allow_oauth>0</allow_oauth>
+      <allow_referrer>1</allow_referrer>
+      <allow_shibboleth>1</allow_shibboleth>
+      <allow_userpass>1</allow_userpass>
+      <alternative_subs_id/>
+      <city/>
+      <concurrency>-1</concurrency>
+      <contact_forename/>
+      <contact_job_title/>
+      <contact_mobile_telephone/>
+      <contact_name>Nancy McGuire</contact_name>
+      <contact_title/>
+      <conversion_date/>
+      <conversion_type/>
+      <county/>
+      <currency/>
+      <deny_groups>administrator,ip-editor,ss-limited</deny_groups>
+      <email>Ncmcguir@bju.edu</email>
+      <fax/>
+      <grace_period>00:00:00</grace_period>
+      <if_sub_id>7936973</if_sub_id>
+      <ignore_end>1</ignore_end>
+      <ignore_start>1</ignore_start>
+      <is_inheritable>0</is_inheritable>
+      <isbn/>
+      <msd_order_id/>
+      <notes/>
+      <postcode/>
+      <prepayment_required>0</prepayment_required>
+      <price/>
+      <require_libcode>0</require_libcode>
+      <sales_rep/>
+      <satisfy_all_selected_creds>0</satisfy_all_selected_creds>
+      <status>OK</status>
+      <telephone/>
+      <acc_id x:href="/REST/account/10681" x:type="simple"/>
+      <concurrency_type_id x:href="/REST/concurrency_type/PER_PRODUCT" x:type="simple"/>
+      <contact_acc_id/>
+      <converted_to_sub_id/>
+      <country_id x:href="/REST/country/us" x:type="simple">
+         <name>United States</name>
+         <territory>USA</territory>
+      </country_id>
+      <creation_date>2017-12-01 12:21:20</creation_date>
+      <end_date>2018-08-31</end_date>
+      <group_subs_id/>
+      <pe_id x:href="/REST/product_edition/MITPSYMAY14" x:type="simple">
+         <allow_ip_default>1</allow_ip_default>
+         <allow_libcard_default>1</allow_libcard_default>
+         <allow_oauth_default>0</allow_oauth_default>
+         <allow_referrer_default>1</allow_referrer_default>
+         <allow_shibboleth_default>1</allow_shibboleth_default>
+         <allow_userpass_default>1</allow_userpass_default>
+         <deny_groups_default>administrator,ip-editor,ss-limited</deny_groups_default>
+         <description/>
+         <image_filename/>
+         <immediate_access>1</immediate_access>
+         <is_inheritable_default>0</is_inheritable_default>
+         <isbn>9780262757089</isbn>
+         <license_url/>
+         <notes/>
+         <notify/>
+         <pe_name>MITSO Psychology - Perpetual Access - May 2014 update only</pe_name>
+         <product_type_id>suite</product_type_id>
+         <product_url>http://www.mitpress.universitypressscholarship.com</product_url>
+         <require_libcode_default>0</require_libcode_default>
+         <satisfy_all_selected_creds_default>0</satisfy_all_selected_creds_default>
+         <concurrency_type_id_default x:href="/REST/concurrency_type/PER_PRODUCT" x:type="simple"/>
+         <site_id x:href="/REST/site/MITSO" x:type="simple"/>
+         <product_content x:href="/REST/product_content/MITPSYMAY14/pwe_20140529_mitso_psychology" x:type="simple">
+            <content_unit_id x:href="/REST/content_unit/pwe_20140529_mitso_psychology" x:type="simple"/>
+         </product_content>
+      </pe_id>
+      <publication_medium_id x:href="/REST/publication_medium/ONLINE" x:type="simple">
+         <description>Online Only</description>
+      </publication_medium_id>
+      <start_date>2017-09-01</start_date>
+      <subscription_type_id x:href="/REST/subscription_type/1" x:type="simple">
+         <description>subscription</description>
+      </subscription_type_id>
+      <named_user_config/>
+      <subscription_invoice/>
+   </subscription>
+   <subscription x:href="/REST/subscription/2741020" x:type="simple">
+      <address1/>
+      <address2/>
+      <administered_by>USA</administered_by>
+      <allow_ip>1</allow_ip>
+      <allow_libcard>1</allow_libcard>
+      <allow_marketing_email>0</allow_marketing_email>
+      <allow_notification_email>0</allow_notification_email>
+      <allow_oauth>0</allow_oauth>
+      <allow_referrer>1</allow_referrer>
+      <allow_shibboleth>1</allow_shibboleth>
+      <allow_userpass>1</allow_userpass>
+      <alternative_subs_id/>
+      <city/>
+      <concurrency>-1</concurrency>
+      <contact_forename/>
+      <contact_job_title/>
+      <contact_mobile_telephone/>
+      <contact_name>Nancy McGuire</contact_name>
+      <contact_title/>
+      <conversion_date/>
+      <conversion_type/>
+      <county/>
+      <currency/>
+      <deny_groups>administrator,ip-editor,ss-limited</deny_groups>
+      <email>Ncmcguir@bju.edu</email>
+      <fax/>
+      <grace_period>00:00:00</grace_period>
+      <if_sub_id>7993764</if_sub_id>
+      <ignore_end>1</ignore_end>
+      <ignore_start>1</ignore_start>
+      <is_inheritable>0</is_inheritable>
+      <isbn/>
+      <msd_order_id/>
+      <notes/>
+      <postcode/>
+      <prepayment_required>0</prepayment_required>
+      <price/>
+      <require_libcode>0</require_libcode>
+      <sales_rep/>
+      <satisfy_all_selected_creds>0</satisfy_all_selected_creds>
+      <status>OK</status>
+      <telephone/>
+      <acc_id x:href="/REST/account/10681" x:type="simple"/>
+      <concurrency_type_id x:href="/REST/concurrency_type/PER_SITE" x:type="simple"/>
+      <contact_acc_id/>
+      <converted_to_sub_id/>
+      <country_id x:href="/REST/country/us" x:type="simple">
+         <name>United States</name>
+         <territory>USA</territory>
+      </country_id>
+      <creation_date>2017-12-01 12:21:20</creation_date>
+      <end_date>2018-09-30</end_date>
+      <group_subs_id/>
+      <pe_id x:href="/REST/product_edition/MITPSYSEP14" x:type="simple">
+         <allow_ip_default>1</allow_ip_default>
+         <allow_libcard_default>1</allow_libcard_default>
+         <allow_oauth_default>0</allow_oauth_default>
+         <allow_referrer_default>1</allow_referrer_default>
+         <allow_shibboleth_default>1</allow_shibboleth_default>
+         <allow_userpass_default>1</allow_userpass_default>
+         <deny_groups_default>administrator,ip-editor,ss-limited</deny_groups_default>
+         <description/>
+         <image_filename/>
+         <immediate_access>1</immediate_access>
+         <is_inheritable_default>0</is_inheritable_default>
+         <isbn>9780262757881</isbn>
+         <license_url/>
+         <notes/>
+         <notify/>
+         <pe_name>MITSO Psychology - Perpetual Access - September 2014 update only</pe_name>
+         <product_type_id>suite</product_type_id>
+         <product_url>http://www.mitpress.universitypressscholarship.com</product_url>
+         <require_libcode_default>0</require_libcode_default>
+         <satisfy_all_selected_creds_default>0</satisfy_all_selected_creds_default>
+         <concurrency_type_id_default x:href="/REST/concurrency_type/PER_SITE" x:type="simple"/>
+         <site_id x:href="/REST/site/MITSO" x:type="simple"/>
+         <product_content x:href="/REST/product_content/MITPSYSEP14/pwe_20140918_mitso_psychology" x:type="simple">
+            <content_unit_id x:href="/REST/content_unit/pwe_20140918_mitso_psychology" x:type="simple"/>
+         </product_content>
+      </pe_id>
+      <publication_medium_id x:href="/REST/publication_medium/ONLINE" x:type="simple">
+         <description>Online Only</description>
+      </publication_medium_id>
+      <start_date>2017-10-01</start_date>
+      <subscription_type_id x:href="/REST/subscription_type/1" x:type="simple">
+         <description>subscription</description>
+      </subscription_type_id>
+      <named_user_config/>
+      <subscription_invoice/>
+   </subscription>
+   <subscription x:href="/REST/subscription/2741021" x:type="simple">
+      <address1/>
+      <address2/>
+      <administered_by>USA</administered_by>
+      <allow_ip>1</allow_ip>
+      <allow_libcard>1</allow_libcard>
+      <allow_marketing_email>0</allow_marketing_email>
+      <allow_notification_email>0</allow_notification_email>
+      <allow_oauth>0</allow_oauth>
+      <allow_referrer>1</allow_referrer>
+      <allow_shibboleth>1</allow_shibboleth>
+      <allow_userpass>1</allow_userpass>
+      <alternative_subs_id/>
+      <city/>
+      <concurrency>-1</concurrency>
+      <contact_forename/>
+      <contact_job_title/>
+      <contact_mobile_telephone/>
+      <contact_name>Nancy McGuire</contact_name>
+      <contact_title/>
+      <conversion_date/>
+      <conversion_type/>
+      <county/>
+      <currency/>
+      <deny_groups>administrator,ip-editor,ss-limited</deny_groups>
+      <email>Ncmcguir@bju.edu</email>
+      <fax/>
+      <grace_period>00:00:00</grace_period>
+      <if_sub_id>4496377</if_sub_id>
+      <ignore_end>1</ignore_end>
+      <ignore_start>1</ignore_start>
+      <is_inheritable>0</is_inheritable>
+      <isbn/>
+      <msd_order_id/>
+      <notes/>
+      <postcode/>
+      <prepayment_required>0</prepayment_required>
+      <price/>
+      <require_libcode>0</require_libcode>
+      <sales_rep/>
+      <satisfy_all_selected_creds>0</satisfy_all_selected_creds>
+      <status>OK</status>
+      <telephone/>
+      <acc_id x:href="/REST/account/10681" x:type="simple"/>
+      <concurrency_type_id x:href="/REST/concurrency_type/PER_SITE" x:type="simple"/>
+      <contact_acc_id/>
+      <converted_to_sub_id/>
+      <country_id x:href="/REST/country/us" x:type="simple">
+         <name>United States</name>
+         <territory>USA</territory>
+      </country_id>
+      <creation_date>2017-12-01 12:21:20</creation_date>
+      <end_date>2017-09-30</end_date>
+      <group_subs_id/>
+      <pe_id x:href="/REST/product_edition/MITPSYSEP14" x:type="simple">
+         <allow_ip_default>1</allow_ip_default>
+         <allow_libcard_default>1</allow_libcard_default>
+         <allow_oauth_default>0</allow_oauth_default>
+         <allow_referrer_default>1</allow_referrer_default>
+         <allow_shibboleth_default>1</allow_shibboleth_default>
+         <allow_userpass_default>1</allow_userpass_default>
+         <deny_groups_default>administrator,ip-editor,ss-limited</deny_groups_default>
+         <description/>
+         <image_filename/>
+         <immediate_access>1</immediate_access>
+         <is_inheritable_default>0</is_inheritable_default>
+         <isbn>9780262757881</isbn>
+         <license_url/>
+         <notes/>
+         <notify/>
+         <pe_name>MITSO Psychology - Perpetual Access - September 2014 update only</pe_name>
+         <product_type_id>suite</product_type_id>
+         <product_url>http://www.mitpress.universitypressscholarship.com</product_url>
+         <require_libcode_default>0</require_libcode_default>
+         <satisfy_all_selected_creds_default>0</satisfy_all_selected_creds_default>
+         <concurrency_type_id_default x:href="/REST/concurrency_type/PER_SITE" x:type="simple"/>
+         <site_id x:href="/REST/site/MITSO" x:type="simple"/>
+         <product_content x:href="/REST/product_content/MITPSYSEP14/pwe_20140918_mitso_psychology" x:type="simple">
+            <content_unit_id x:href="/REST/content_unit/pwe_20140918_mitso_psychology" x:type="simple"/>
+         </product_content>
+      </pe_id>
+      <publication_medium_id x:href="/REST/publication_medium/ONLINE" x:type="simple">
+         <description>Online Only</description>
+      </publication_medium_id>
+      <start_date>2016-10-01</start_date>
+      <subscription_type_id x:href="/REST/subscription_type/1" x:type="simple">
+         <description>subscription</description>
+      </subscription_type_id>
+      <named_user_config/>
+      <subscription_invoice/>
+   </subscription>
+   <subscription x:href="/REST/subscription/2741022" x:type="simple">
+      <address1/>
+      <address2/>
+      <administered_by>USA</administered_by>
+      <allow_ip>1</allow_ip>
+      <allow_libcard>1</allow_libcard>
+      <allow_marketing_email>0</allow_marketing_email>
+      <allow_notification_email>0</allow_notification_email>
+      <allow_oauth>0</allow_oauth>
+      <allow_referrer>1</allow_referrer>
+      <allow_shibboleth>1</allow_shibboleth>
+      <allow_userpass>1</allow_userpass>
+      <alternative_subs_id/>
+      <city/>
+      <concurrency>-1</concurrency>
+      <contact_forename/>
+      <contact_job_title/>
+      <contact_mobile_telephone/>
+      <contact_name>Nancy McGuire</contact_name>
+      <contact_title/>
+      <conversion_date/>
+      <conversion_type/>
+      <county/>
+      <currency/>
+      <deny_groups>administrator,ip-editor,ss-limited</deny_groups>
+      <email>Ncmcguir@bju.edu</email>
+      <fax/>
+      <grace_period>00:00:00</grace_period>
+      <if_sub_id>7633161</if_sub_id>
+      <ignore_end>1</ignore_end>
+      <ignore_start>1</ignore_start>
+      <is_inheritable>0</is_inheritable>
+      <isbn/>
+      <msd_order_id/>
+      <notes/>
+      <postcode/>
+      <prepayment_required>0</prepayment_required>
+      <price/>
+      <require_libcode>0</require_libcode>
+      <sales_rep/>
+      <satisfy_all_selected_creds>0</satisfy_all_selected_creds>
+      <status>OK</status>
+      <telephone/>
+      <acc_id x:href="/REST/account/10681" x:type="simple"/>
+      <concurrency_type_id x:href="/REST/concurrency_type/PER_SITE" x:type="simple"/>
+      <contact_acc_id/>
+      <converted_to_sub_id/>
+      <country_id x:href="/REST/country/us" x:type="simple">
+         <name>United States</name>
+         <territory>USA</territory>
+      </country_id>
+      <creation_date>2017-12-01 12:21:20</creation_date>
+      <end_date>2018-01-31</end_date>
+      <group_subs_id/>
+      <pe_id x:href="/REST/product_edition/MITPSYJAN15" x:type="simple">
+         <allow_ip_default>1</allow_ip_default>
+         <allow_libcard_default>1</allow_libcard_default>
+         <allow_oauth_default>0</allow_oauth_default>
+         <allow_referrer_default>1</allow_referrer_default>
+         <allow_shibboleth_default>1</allow_shibboleth_default>
+         <allow_userpass_default>1</allow_userpass_default>
+         <deny_groups_default>administrator,ip-editor,ss-limited</deny_groups_default>
+         <description/>
+         <image_filename/>
+         <immediate_access>1</immediate_access>
+         <is_inheritable_default>0</is_inheritable_default>
+         <isbn>9780262758598</isbn>
+         <license_url/>
+         <notes/>
+         <notify/>
+         <pe_name>MITSO Psychology - Perpetual Access - January 2015 update only</pe_name>
+         <product_type_id>suite</product_type_id>
+         <product_url>http://www.mitpress.universitypressscholarship.com</product_url>
+         <require_libcode_default>0</require_libcode_default>
+         <satisfy_all_selected_creds_default>0</satisfy_all_selected_creds_default>
+         <concurrency_type_id_default x:href="/REST/concurrency_type/PER_SITE" x:type="simple"/>
+         <site_id x:href="/REST/site/MITSO" x:type="simple"/>
+         <product_content x:href="/REST/product_content/MITPSYJAN15/pwe_20150122_mitso_psychology" x:type="simple">
+            <content_unit_id x:href="/REST/content_unit/pwe_20150122_mitso_psychology" x:type="simple"/>
+         </product_content>
+      </pe_id>
+      <publication_medium_id x:href="/REST/publication_medium/ONLINE" x:type="simple">
+         <description>Online Only</description>
+      </publication_medium_id>
+      <start_date>2017-02-01</start_date>
+      <subscription_type_id x:href="/REST/subscription_type/1" x:type="simple">
+         <description>subscription</description>
+      </subscription_type_id>
+      <named_user_config/>
+      <subscription_invoice/>
+   </subscription>
+   <subscription x:href="/REST/subscription/2741023" x:type="simple">
+      <address1/>
+      <address2/>
+      <administered_by>USA</administered_by>
+      <allow_ip>1</allow_ip>
+      <allow_libcard>1</allow_libcard>
+      <allow_marketing_email>0</allow_marketing_email>
+      <allow_notification_email>0</allow_notification_email>
+      <allow_oauth>0</allow_oauth>
+      <allow_referrer>1</allow_referrer>
+      <allow_shibboleth>1</allow_shibboleth>
+      <allow_userpass>1</allow_userpass>
+      <alternative_subs_id/>
+      <city/>
+      <concurrency>-1</concurrency>
+      <contact_forename/>
+      <contact_job_title/>
+      <contact_mobile_telephone/>
+      <contact_name>Nancy McGuire</contact_name>
+      <contact_title/>
+      <conversion_date/>
+      <conversion_type/>
+      <county/>
+      <currency/>
+      <deny_groups>administrator,ip-editor,ss-limited</deny_groups>
+      <email>Ncmcguir@bju.edu</email>
+      <fax/>
+      <grace_period>00:00:00</grace_period>
+      <if_sub_id>7633163</if_sub_id>
+      <ignore_end>1</ignore_end>
+      <ignore_start>1</ignore_start>
+      <is_inheritable>0</is_inheritable>
+      <isbn/>
+      <msd_order_id/>
+      <notes/>
+      <postcode/>
+      <prepayment_required>0</prepayment_required>
+      <price/>
+      <require_libcode>0</require_libcode>
+      <sales_rep/>
+      <satisfy_all_selected_creds>0</satisfy_all_selected_creds>
+      <status>OK</status>
+      <telephone/>
+      <acc_id x:href="/REST/account/10681" x:type="simple"/>
+      <concurrency_type_id x:href="/REST/concurrency_type/PER_SITE" x:type="simple"/>
+      <contact_acc_id/>
+      <converted_to_sub_id/>
+      <country_id x:href="/REST/country/us" x:type="simple">
+         <name>United States</name>
+         <territory>USA</territory>
+      </country_id>
+      <creation_date>2017-12-01 12:21:20</creation_date>
+      <end_date>2018-01-31</end_date>
+      <group_subs_id/>
+      <pe_id x:href="/REST/product_edition/YPSYJAN15" x:type="simple">
+         <allow_ip_default>1</allow_ip_default>
+         <allow_libcard_default>1</allow_libcard_default>
+         <allow_oauth_default>0</allow_oauth_default>
+         <allow_referrer_default>1</allow_referrer_default>
+         <allow_shibboleth_default>1</allow_shibboleth_default>
+         <allow_userpass_default>1</allow_userpass_default>
+         <deny_groups_default>administrator,ip-editor,ss-limited</deny_groups_default>
+         <description/>
+         <image_filename/>
+         <immediate_access>1</immediate_access>
+         <is_inheritable_default>0</is_inheritable_default>
+         <isbn>9780300202489</isbn>
+         <license_url/>
+         <notes/>
+         <notify/>
+         <pe_name>YSO Psychology - Perpetual Access - January 2015 update only</pe_name>
+         <product_type_id>suite</product_type_id>
+         <product_url>http://www.yale.universitypressscholarship.com</product_url>
+         <require_libcode_default>0</require_libcode_default>
+         <satisfy_all_selected_creds_default>0</satisfy_all_selected_creds_default>
+         <concurrency_type_id_default x:href="/REST/concurrency_type/PER_SITE" x:type="simple"/>
+         <site_id x:href="/REST/site/YSO" x:type="simple"/>
+         <product_content x:href="/REST/product_content/YPSYJAN15/pwe_20150122_yso_psychology" x:type="simple">
+            <content_unit_id x:href="/REST/content_unit/pwe_20150122_yso_psychology" x:type="simple"/>
+         </product_content>
+      </pe_id>
+      <publication_medium_id x:href="/REST/publication_medium/ONLINE" x:type="simple">
+         <description>Online Only</description>
+      </publication_medium_id>
+      <start_date>2017-02-01</start_date>
+      <subscription_type_id x:href="/REST/subscription_type/1" x:type="simple">
+         <description>subscription</description>
+      </subscription_type_id>
+      <named_user_config/>
+      <subscription_invoice/>
+   </subscription>
+   <subscription x:href="/REST/subscription/2741024" x:type="simple">
+      <address1/>
+      <address2/>
+      <administered_by>USA</administered_by>
+      <allow_ip>1</allow_ip>
+      <allow_libcard>1</allow_libcard>
+      <allow_marketing_email>0</allow_marketing_email>
+      <allow_notification_email>0</allow_notification_email>
+      <allow_oauth>0</allow_oauth>
+      <allow_referrer>1</allow_referrer>
+      <allow_shibboleth>1</allow_shibboleth>
+      <allow_userpass>1</allow_userpass>
+      <alternative_subs_id/>
+      <city/>
+      <concurrency>-1</concurrency>
+      <contact_forename/>
+      <contact_job_title/>
+      <contact_mobile_telephone/>
+      <contact_name>Nancy McGuire</contact_name>
+      <contact_title/>
+      <conversion_date/>
+      <conversion_type/>
+      <county/>
+      <currency/>
+      <deny_groups>administrator,ip-editor,ss-limited</deny_groups>
+      <email>Ncmcguir@bju.edu</email>
+      <fax/>
+      <grace_period>00:00:00</grace_period>
+      <if_sub_id>7633165</if_sub_id>
+      <ignore_end>1</ignore_end>
+      <ignore_start>1</ignore_start>
+      <is_inheritable>0</is_inheritable>
+      <isbn/>
+      <msd_order_id/>
+      <notes/>
+      <postcode/>
+      <prepayment_required>0</prepayment_required>
+      <price/>
+      <require_libcode>0</require_libcode>
+      <sales_rep/>
+      <satisfy_all_selected_creds>0</satisfy_all_selected_creds>
+      <status>OK</status>
+      <telephone/>
+      <acc_id x:href="/REST/account/10681" x:type="simple"/>
+      <concurrency_type_id x:href="/REST/concurrency_type/PER_PRODUCT" x:type="simple"/>
+      <contact_acc_id/>
+      <converted_to_sub_id/>
+      <country_id x:href="/REST/country/us" x:type="simple">
+         <name>United States</name>
+         <territory>USA</territory>
+      </country_id>
+      <creation_date>2017-12-01 12:21:20</creation_date>
+      <end_date>2018-01-31</end_date>
+      <group_subs_id/>
+      <pe_id x:href="/REST/product_edition/PSYJAN15" x:type="simple">
+         <allow_ip_default>1</allow_ip_default>
+         <allow_libcard_default>1</allow_libcard_default>
+         <allow_oauth_default>0</allow_oauth_default>
+         <allow_referrer_default>1</allow_referrer_default>
+         <allow_shibboleth_default>1</allow_shibboleth_default>
+         <allow_userpass_default>1</allow_userpass_default>
+         <deny_groups_default>administrator,ip-editor,ss-limited</deny_groups_default>
+         <description/>
+         <image_filename/>
+         <immediate_access>1</immediate_access>
+         <is_inheritable_default>0</is_inheritable_default>
+         <isbn/>
+         <license_url/>
+         <notes/>
+         <notify/>
+         <pe_name>OSO Psychology - Perpetual Access - Titles added October 2014 to January 2015</pe_name>
+         <product_type_id>suite</product_type_id>
+         <product_url>http://www.oxfordscholarship.com</product_url>
+         <require_libcode_default>0</require_libcode_default>
+         <satisfy_all_selected_creds_default>0</satisfy_all_selected_creds_default>
+         <concurrency_type_id_default x:href="/REST/concurrency_type/PER_PRODUCT" x:type="simple"/>
+         <site_id x:href="/REST/site/OSO" x:type="simple"/>
+         <product_content x:href="/REST/product_content/PSYJAN15/pwe_20141218_psychology" x:type="simple">
+            <content_unit_id x:href="/REST/content_unit/pwe_20141218_psychology" x:type="simple"/>
+         </product_content>
+         <product_content x:href="/REST/product_content/PSYJAN15/pwe_20141120_psychology" x:type="simple">
+            <content_unit_id x:href="/REST/content_unit/pwe_20141120_psychology" x:type="simple"/>
+         </product_content>
+         <product_content x:href="/REST/product_content/PSYJAN15/pwe_20141023_psychology" x:type="simple">
+            <content_unit_id x:href="/REST/content_unit/pwe_20141023_psychology" x:type="simple"/>
+         </product_content>
+         <product_content x:href="/REST/product_content/PSYJAN15/pwe_20150122_psychology" x:type="simple">
+            <content_unit_id x:href="/REST/content_unit/pwe_20150122_psychology" x:type="simple"/>
+         </product_content>
+      </pe_id>
+      <publication_medium_id x:href="/REST/publication_medium/ONLINE" x:type="simple">
+         <description>Online Only</description>
+      </publication_medium_id>
+      <start_date>2017-02-01</start_date>
+      <subscription_type_id x:href="/REST/subscription_type/1" x:type="simple">
+         <description>subscription</description>
+      </subscription_type_id>
+      <named_user_config/>
+      <subscription_invoice/>
+   </subscription>
+   <subscription x:href="/REST/subscription/2741025" x:type="simple">
+      <address1/>
+      <address2/>
+      <administered_by>USA</administered_by>
+      <allow_ip>1</allow_ip>
+      <allow_libcard>1</allow_libcard>
+      <allow_marketing_email>0</allow_marketing_email>
+      <allow_notification_email>0</allow_notification_email>
+      <allow_oauth>1</allow_oauth>
+      <allow_referrer>1</allow_referrer>
+      <allow_shibboleth>1</allow_shibboleth>
+      <allow_userpass>1</allow_userpass>
+      <alternative_subs_id/>
+      <city/>
+      <concurrency>-1</concurrency>
+      <contact_forename/>
+      <contact_job_title/>
+      <contact_mobile_telephone/>
+      <contact_name>Nancy McGuire</contact_name>
+      <contact_title/>
+      <conversion_date/>
+      <conversion_type/>
+      <county/>
+      <currency/>
+      <deny_groups/>
+      <email>Ncmcguir@bju.edu</email>
+      <fax/>
+      <grace_period>00:00:00</grace_period>
+      <if_sub_id>7548104</if_sub_id>
+      <ignore_end>1</ignore_end>
+      <ignore_start>1</ignore_start>
+      <is_inheritable>0</is_inheritable>
+      <isbn/>
+      <msd_order_id/>
+      <notes/>
+      <postcode/>
+      <prepayment_required>0</prepayment_required>
+      <price/>
+      <require_libcode>0</require_libcode>
+      <sales_rep/>
+      <satisfy_all_selected_creds>0</satisfy_all_selected_creds>
+      <status>OK</status>
+      <telephone/>
+      <acc_id x:href="/REST/account/10681" x:type="simple"/>
+      <concurrency_type_id x:href="/REST/concurrency_type/PER_PRODUCT" x:type="simple"/>
+      <contact_acc_id/>
+      <converted_to_sub_id/>
+      <country_id x:href="/REST/country/us" x:type="simple">
+         <name>United States</name>
+         <territory>USA</territory>
+      </country_id>
+      <creation_date>2017-12-01 12:21:20</creation_date>
+      <end_date>2017-10-31</end_date>
+      <group_subs_id/>
+      <pe_id x:href="/REST/product_edition/EBKOEBTHE" x:type="simple">
+         <allow_ip_default>1</allow_ip_default>
+         <allow_libcard_default>1</allow_libcard_default>
+         <allow_oauth_default>1</allow_oauth_default>
+         <allow_referrer_default>1</allow_referrer_default>
+         <allow_shibboleth_default>1</allow_shibboleth_default>
+         <allow_userpass_default>1</allow_userpass_default>
+         <deny_groups_default/>
+         <description/>
+         <image_filename/>
+         <immediate_access>0</immediate_access>
+         <is_inheritable_default>0</is_inheritable_default>
+         <isbn/>
+         <license_url/>
+         <notes/>
+         <notify/>
+         <pe_name>eBook The Oxford Encyclopedia of the Bible and Theology</pe_name>
+         <product_type_id>suite</product_type_id>
+         <product_url/>
+         <require_libcode_default>0</require_libcode_default>
+         <satisfy_all_selected_creds_default>0</satisfy_all_selected_creds_default>
+         <concurrency_type_id_default x:href="/REST/concurrency_type/PER_PRODUCT" x:type="simple"/>
+         <site_id x:href="/REST/site/ORO" x:type="simple"/>
+         <product_content x:href="/REST/product_content/EBKOEBTHE/t467" x:type="simple">
+            <content_unit_id x:href="/REST/content_unit/t467" x:type="simple"/>
+         </product_content>
+      </pe_id>
+      <publication_medium_id x:href="/REST/publication_medium/ONLINE" x:type="simple">
+         <description>Online Only</description>
+      </publication_medium_id>
+      <start_date>2016-11-01</start_date>
+      <subscription_type_id x:href="/REST/subscription_type/1" x:type="simple">
+         <description>subscription</description>
+      </subscription_type_id>
+      <named_user_config/>
+      <subscription_invoice/>
+   </subscription>
+   <sams_puid/>
+</sams:resource>

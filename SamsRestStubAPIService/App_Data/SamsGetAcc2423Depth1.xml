@@ -1,0 +1,1426 @@
+<sams:resource xml:base="https://api.samstest.oup.com:443/REST/account/10681" xmlns="http://semantico.com/xmlns/sams-db" xmlns:sams="http://semantico.com/xmlns/sams" xmlns:x="http://www.w3.org/1999/xlink">
+   <contact_address_1/>
+   <contact_address_2/>
+   <contact_city/>
+   <contact_county/>
+   <contact_email/>
+   <contact_family_name/>
+   <contact_fax/>
+   <contact_given_name/>
+   <contact_job_title/>
+   <contact_mobile_telephone/>
+   <contact_postcode/>
+   <contact_telephone/>
+   <contact_title/>
+   <if_acc_id>2423</if_acc_id>
+   <msd_customer_id/>
+   <notes/>
+   <oed_sid>000002223</oed_sid>
+   <organisation>Bob Jones University</organisation>
+   <parent_acc_id/>
+   <vista_id/>
+   <account_type_id x:href="/REST/account_type/1" x:type="simple">
+      <description>Institution</description>
+      <is_account_group>0</is_account_group>
+      <is_subscription_group>0</is_subscription_group>
+   </account_type_id>
+   <contact_country_id/>
+   <creation_date>2007-01-22 06:40:16</creation_date>
+   <group_acc_id/>
+   <maintainer/>
+   <org_size_id x:href="/REST/org_size/1" x:type="simple">
+      <description>Other</description>
+   </org_size_id>
+   <credential_ip x:href="/REST/credential_ip/11032222" x:type="simple">
+      <allow>1</allow>
+      <ip_address>205.227.90.175</ip_address>
+   </credential_ip>
+   <credential_ip x:href="/REST/credential_ip/11032223" x:type="simple">
+      <allow>1</allow>
+      <ip_address>158.158.0.0/16</ip_address>
+   </credential_ip>
+   <credential_userpass x:href="/REST/credential_userpass/2679838" x:type="simple">
+      <make_public>0</make_public>
+      <password>Bju</password>
+      <salt/>
+      <username>bju</username>
+      <credential_userpass_format_id x:href="/REST/credential_userpass_format/PLAIN" x:type="simple"/>
+      <group_member x:href="/REST/group_member/3223042" x:type="simple"/>
+      <group_member x:href="/REST/group_member/3223043" x:type="simple"/>
+      <autocreated/>
+   </credential_userpass>
+   <account_preference x:href="/REST/account_preference/10681/return_subscription_preferences" x:type="simple">
+      <value>false</value>
+   </account_preference>
+   <account_preference x:href="/REST/account_preference/10681/is_openurl_enabled" x:type="simple">
+      <value>false</value>
+   </account_preference>
+   <account_preference x:href="/REST/account_preference/10681/openurl_format" x:type="simple">
+      <value>kev</value>
+   </account_preference>
+   <account_preference x:href="/REST/account_preference/10681/openurl_icon" x:type="simple">
+      <value>http://imageserver.ebscohost.com/branding/images/FTF.gif</value>
+   </account_preference>
+   <account_preference x:href="/REST/account_preference/10681/openurl_version" x:type="simple">
+      <value>1.0</value>
+   </account_preference>
+   <account_preference x:href="/REST/account_preference/10681/openurl_resolver" x:type="simple">
+      <value>http://resolver.ebscohost.com/openurl</value>
+   </account_preference>
+   <account_preference x:href="/REST/account_preference/10681/is_google_preview_link" x:type="simple">
+      <value>false</value>
+   </account_preference>
+   <account_preference x:href="/REST/account_preference/10681/is_dram" x:type="simple">
+      <value>false</value>
+   </account_preference>
+   <account_preference x:href="/REST/account_preference/10681/is_worldcat_link" x:type="simple">
+      <value>false</value>
+   </account_preference>
+   <account_preference x:href="/REST/account_preference/10681/is_artstor" x:type="simple">
+      <value>false</value>
+   </account_preference>
+   <account_preference x:href="/REST/account_preference/10681/is_google_preview_search" x:type="simple">
+      <value>false</value>
+   </account_preference>
+   <account_preference x:href="/REST/account_preference/10681/is_worldcat_search" x:type="simple">
+      <value>false</value>
+   </account_preference>
+   <account_preference x:href="/REST/account_preference/10681/are_downloadable_tools_enabled" x:type="simple">
+      <value>false</value>
+   </account_preference>
+   <subscription x:href="/REST/subscription/2465413" x:type="simple">
+      <address1/>
+      <address2/>
+      <administered_by>USA</administered_by>
+      <allow_ip>1</allow_ip>
+      <allow_libcard>1</allow_libcard>
+      <allow_marketing_email>0</allow_marketing_email>
+      <allow_notification_email>0</allow_notification_email>
+      <allow_oauth>0</allow_oauth>
+      <allow_referrer>1</allow_referrer>
+      <allow_shibboleth>1</allow_shibboleth>
+      <allow_userpass>1</allow_userpass>
+      <alternative_subs_id/>
+      <city/>
+      <concurrency>-1</concurrency>
+      <contact_forename/>
+      <contact_job_title/>
+      <contact_mobile_telephone/>
+      <contact_name>Nancy McGuire</contact_name>
+      <contact_title/>
+      <conversion_date/>
+      <conversion_type/>
+      <county/>
+      <currency/>
+      <deny_groups>administrator,ip-editor,ss-limited</deny_groups>
+      <email>Ncmcguir@bju.edu</email>
+      <fax/>
+      <grace_period>50 days</grace_period>
+      <if_sub_id>4052836</if_sub_id>
+      <ignore_end>1</ignore_end>
+      <ignore_start>1</ignore_start>
+      <is_inheritable>0</is_inheritable>
+      <isbn/>
+      <msd_order_id/>
+      <notes/>
+      <postcode/>
+      <prepayment_required>0</prepayment_required>
+      <price/>
+      <require_libcode>0</require_libcode>
+      <sales_rep/>
+      <satisfy_all_selected_creds>0</satisfy_all_selected_creds>
+      <status>OK</status>
+      <telephone/>
+      <acc_id x:href="/REST/account/10681" x:type="simple"/>
+      <concurrency_type_id x:href="/REST/concurrency_type/PER_PRODUCT" x:type="simple"/>
+      <contact_acc_id/>
+      <converted_to_sub_id/>
+      <country_id x:href="/REST/country/us" x:type="simple"/>
+      <creation_date>2015-08-31 23:12:08</creation_date>
+      <end_date/>
+      <group_subs_id/>
+      <pe_id x:href="/REST/product_edition/MITPSYAUG13" x:type="simple"/>
+      <publication_medium_id x:href="/REST/publication_medium/ONLINE" x:type="simple"/>
+      <start_date>2015-09-01</start_date>
+      <subscription_type_id x:href="/REST/subscription_type/1" x:type="simple"/>
+      <named_user_config/>
+      <subscription_invoice/>
+   </subscription>
+   <subscription x:href="/REST/subscription/3148048" x:type="simple">
+      <address1/>
+      <address2/>
+      <administered_by>USA</administered_by>
+      <allow_ip>1</allow_ip>
+      <allow_libcard>1</allow_libcard>
+      <allow_marketing_email>0</allow_marketing_email>
+      <allow_notification_email>0</allow_notification_email>
+      <allow_oauth>0</allow_oauth>
+      <allow_referrer>1</allow_referrer>
+      <allow_shibboleth>1</allow_shibboleth>
+      <allow_userpass>1</allow_userpass>
+      <alternative_subs_id/>
+      <city/>
+      <concurrency>-1</concurrency>
+      <contact_forename/>
+      <contact_job_title/>
+      <contact_mobile_telephone/>
+      <contact_name>Nancy McGuire</contact_name>
+      <contact_title/>
+      <conversion_date/>
+      <conversion_type/>
+      <county/>
+      <currency/>
+      <deny_groups>administrator,ip-editor,ss-limited</deny_groups>
+      <email>Ncmcguir@bju.edu</email>
+      <fax/>
+      <grace_period>00:00:00</grace_period>
+      <if_sub_id>7633165</if_sub_id>
+      <ignore_end>1</ignore_end>
+      <ignore_start>1</ignore_start>
+      <is_inheritable>0</is_inheritable>
+      <isbn/>
+      <msd_order_id/>
+      <notes/>
+      <postcode/>
+      <prepayment_required>0</prepayment_required>
+      <price/>
+      <require_libcode>0</require_libcode>
+      <sales_rep/>
+      <satisfy_all_selected_creds>0</satisfy_all_selected_creds>
+      <status>OK</status>
+      <telephone/>
+      <acc_id x:href="/REST/account/10681" x:type="simple"/>
+      <concurrency_type_id x:href="/REST/concurrency_type/PER_PRODUCT" x:type="simple"/>
+      <contact_acc_id/>
+      <converted_to_sub_id/>
+      <country_id x:href="/REST/country/us" x:type="simple"/>
+      <creation_date>2017-02-01 01:54:54</creation_date>
+      <end_date>2018-01-31</end_date>
+      <group_subs_id/>
+      <pe_id x:href="/REST/product_edition/PSYJAN15" x:type="simple"/>
+      <publication_medium_id x:href="/REST/publication_medium/ONLINE" x:type="simple"/>
+      <start_date>2017-02-01</start_date>
+      <subscription_type_id x:href="/REST/subscription_type/1" x:type="simple"/>
+      <named_user_config/>
+      <subscription_invoice/>
+   </subscription>
+   <subscription x:href="/REST/subscription/3148049" x:type="simple">
+      <address1/>
+      <address2/>
+      <administered_by>USA</administered_by>
+      <allow_ip>1</allow_ip>
+      <allow_libcard>1</allow_libcard>
+      <allow_marketing_email>0</allow_marketing_email>
+      <allow_notification_email>0</allow_notification_email>
+      <allow_oauth>0</allow_oauth>
+      <allow_referrer>1</allow_referrer>
+      <allow_shibboleth>1</allow_shibboleth>
+      <allow_userpass>1</allow_userpass>
+      <alternative_subs_id/>
+      <city/>
+      <concurrency>-1</concurrency>
+      <contact_forename/>
+      <contact_job_title/>
+      <contact_mobile_telephone/>
+      <contact_name>Nancy McGuire</contact_name>
+      <contact_title/>
+      <conversion_date/>
+      <conversion_type/>
+      <county/>
+      <currency/>
+      <deny_groups>administrator,ip-editor,ss-limited</deny_groups>
+      <email>Ncmcguir@bju.edu</email>
+      <fax/>
+      <grace_period>00:00:00</grace_period>
+      <if_sub_id>7633161</if_sub_id>
+      <ignore_end>1</ignore_end>
+      <ignore_start>1</ignore_start>
+      <is_inheritable>0</is_inheritable>
+      <isbn/>
+      <msd_order_id/>
+      <notes/>
+      <postcode/>
+      <prepayment_required>0</prepayment_required>
+      <price/>
+      <require_libcode>0</require_libcode>
+      <sales_rep/>
+      <satisfy_all_selected_creds>0</satisfy_all_selected_creds>
+      <status>OK</status>
+      <telephone/>
+      <acc_id x:href="/REST/account/10681" x:type="simple"/>
+      <concurrency_type_id x:href="/REST/concurrency_type/PER_SITE" x:type="simple"/>
+      <contact_acc_id/>
+      <converted_to_sub_id/>
+      <country_id x:href="/REST/country/us" x:type="simple"/>
+      <creation_date>2017-02-01 01:54:54</creation_date>
+      <end_date>2018-01-31</end_date>
+      <group_subs_id/>
+      <pe_id x:href="/REST/product_edition/MITPSYJAN15" x:type="simple"/>
+      <publication_medium_id x:href="/REST/publication_medium/ONLINE" x:type="simple"/>
+      <start_date>2017-02-01</start_date>
+      <subscription_type_id x:href="/REST/subscription_type/1" x:type="simple"/>
+      <named_user_config/>
+      <subscription_invoice/>
+   </subscription>
+   <subscription x:href="/REST/subscription/3148050" x:type="simple">
+      <address1/>
+      <address2/>
+      <administered_by>USA</administered_by>
+      <allow_ip>1</allow_ip>
+      <allow_libcard>1</allow_libcard>
+      <allow_marketing_email>0</allow_marketing_email>
+      <allow_notification_email>0</allow_notification_email>
+      <allow_oauth>0</allow_oauth>
+      <allow_referrer>1</allow_referrer>
+      <allow_shibboleth>1</allow_shibboleth>
+      <allow_userpass>1</allow_userpass>
+      <alternative_subs_id/>
+      <city/>
+      <concurrency>-1</concurrency>
+      <contact_forename/>
+      <contact_job_title/>
+      <contact_mobile_telephone/>
+      <contact_name>Nancy McGuire</contact_name>
+      <contact_title/>
+      <conversion_date/>
+      <conversion_type/>
+      <county/>
+      <currency/>
+      <deny_groups>administrator,ip-editor,ss-limited</deny_groups>
+      <email>Ncmcguir@bju.edu</email>
+      <fax/>
+      <grace_period>00:00:00</grace_period>
+      <if_sub_id>7633163</if_sub_id>
+      <ignore_end>1</ignore_end>
+      <ignore_start>1</ignore_start>
+      <is_inheritable>0</is_inheritable>
+      <isbn/>
+      <msd_order_id/>
+      <notes/>
+      <postcode/>
+      <prepayment_required>0</prepayment_required>
+      <price/>
+      <require_libcode>0</require_libcode>
+      <sales_rep/>
+      <satisfy_all_selected_creds>0</satisfy_all_selected_creds>
+      <status>OK</status>
+      <telephone/>
+      <acc_id x:href="/REST/account/10681" x:type="simple"/>
+      <concurrency_type_id x:href="/REST/concurrency_type/PER_SITE" x:type="simple"/>
+      <contact_acc_id/>
+      <converted_to_sub_id/>
+      <country_id x:href="/REST/country/us" x:type="simple"/>
+      <creation_date>2017-02-01 01:54:54</creation_date>
+      <end_date>2018-01-31</end_date>
+      <group_subs_id/>
+      <pe_id x:href="/REST/product_edition/YPSYJAN15" x:type="simple"/>
+      <publication_medium_id x:href="/REST/publication_medium/ONLINE" x:type="simple"/>
+      <start_date>2017-02-01</start_date>
+      <subscription_type_id x:href="/REST/subscription_type/1" x:type="simple"/>
+      <named_user_config/>
+      <subscription_invoice/>
+   </subscription>
+   <subscription x:href="/REST/subscription/3413737" x:type="simple">
+      <address1/>
+      <address2/>
+      <administered_by>USA</administered_by>
+      <allow_ip>1</allow_ip>
+      <allow_libcard>1</allow_libcard>
+      <allow_marketing_email>0</allow_marketing_email>
+      <allow_notification_email>0</allow_notification_email>
+      <allow_oauth>0</allow_oauth>
+      <allow_referrer>1</allow_referrer>
+      <allow_shibboleth>1</allow_shibboleth>
+      <allow_userpass>1</allow_userpass>
+      <alternative_subs_id/>
+      <city/>
+      <concurrency>-1</concurrency>
+      <contact_forename/>
+      <contact_job_title/>
+      <contact_mobile_telephone/>
+      <contact_name>Nancy McGuire</contact_name>
+      <contact_title/>
+      <conversion_date/>
+      <conversion_type/>
+      <county/>
+      <currency/>
+      <deny_groups>administrator,ip-editor,ss-limited</deny_groups>
+      <email>Ncmcguir@bju.edu</email>
+      <fax/>
+      <grace_period>00:00:00</grace_period>
+      <if_sub_id>7858209</if_sub_id>
+      <ignore_end>1</ignore_end>
+      <ignore_start>1</ignore_start>
+      <is_inheritable>0</is_inheritable>
+      <isbn/>
+      <msd_order_id/>
+      <notes/>
+      <postcode/>
+      <prepayment_required>0</prepayment_required>
+      <price/>
+      <require_libcode>0</require_libcode>
+      <sales_rep/>
+      <satisfy_all_selected_creds>0</satisfy_all_selected_creds>
+      <status>OK</status>
+      <telephone/>
+      <acc_id x:href="/REST/account/10681" x:type="simple"/>
+      <concurrency_type_id x:href="/REST/concurrency_type/PER_PRODUCT" x:type="simple"/>
+      <contact_acc_id/>
+      <converted_to_sub_id/>
+      <country_id x:href="/REST/country/us" x:type="simple"/>
+      <creation_date>2017-06-29 20:46:46</creation_date>
+      <end_date>2018-06-30</end_date>
+      <group_subs_id x:href="/REST/subscription/234224" x:type="simple"/>
+      <pe_id x:href="/REST/product_edition/ANB" x:type="simple"/>
+      <publication_medium_id x:href="/REST/publication_medium/ONLINE" x:type="simple"/>
+      <start_date>2017-07-01</start_date>
+      <subscription_type_id x:href="/REST/subscription_type/1" x:type="simple"/>
+      <named_user_config/>
+      <subscription_invoice/>
+   </subscription>
+   <subscription x:href="/REST/subscription/3413738" x:type="simple">
+      <address1/>
+      <address2/>
+      <administered_by>USA</administered_by>
+      <allow_ip>1</allow_ip>
+      <allow_libcard>1</allow_libcard>
+      <allow_marketing_email>0</allow_marketing_email>
+      <allow_notification_email>0</allow_notification_email>
+      <allow_oauth>0</allow_oauth>
+      <allow_referrer>1</allow_referrer>
+      <allow_shibboleth>1</allow_shibboleth>
+      <allow_userpass>1</allow_userpass>
+      <alternative_subs_id/>
+      <city/>
+      <concurrency>8</concurrency>
+      <contact_forename/>
+      <contact_job_title/>
+      <contact_mobile_telephone/>
+      <contact_name>Nancy McGuire</contact_name>
+      <contact_title/>
+      <conversion_date/>
+      <conversion_type/>
+      <county/>
+      <currency/>
+      <deny_groups>administrator,ip-editor,ss-limited</deny_groups>
+      <email>Ncmcguir@bju.edu</email>
+      <fax/>
+      <grace_period>00:00:00</grace_period>
+      <if_sub_id>7858210</if_sub_id>
+      <ignore_end>1</ignore_end>
+      <ignore_start>1</ignore_start>
+      <is_inheritable>0</is_inheritable>
+      <isbn/>
+      <msd_order_id/>
+      <notes/>
+      <postcode/>
+      <prepayment_required>0</prepayment_required>
+      <price/>
+      <require_libcode>0</require_libcode>
+      <sales_rep/>
+      <satisfy_all_selected_creds>0</satisfy_all_selected_creds>
+      <status>OK</status>
+      <telephone/>
+      <acc_id x:href="/REST/account/10681" x:type="simple"/>
+      <concurrency_type_id x:href="/REST/concurrency_type/PER_SITE" x:type="simple"/>
+      <contact_acc_id/>
+      <converted_to_sub_id/>
+      <country_id x:href="/REST/country/us" x:type="simple"/>
+      <creation_date>2017-06-29 20:46:46</creation_date>
+      <end_date>2018-06-30</end_date>
+      <group_subs_id x:href="/REST/subscription/234248" x:type="simple"/>
+      <pe_id x:href="/REST/product_edition/GDM" x:type="simple"/>
+      <publication_medium_id x:href="/REST/publication_medium/ONLINE" x:type="simple"/>
+      <start_date>2017-07-01</start_date>
+      <subscription_type_id x:href="/REST/subscription_type/1" x:type="simple"/>
+      <named_user_config/>
+      <subscription_invoice/>
+   </subscription>
+   <subscription x:href="/REST/subscription/3413739" x:type="simple">
+      <address1/>
+      <address2/>
+      <administered_by>USA</administered_by>
+      <allow_ip>1</allow_ip>
+      <allow_libcard>1</allow_libcard>
+      <allow_marketing_email>0</allow_marketing_email>
+      <allow_notification_email>0</allow_notification_email>
+      <allow_oauth>0</allow_oauth>
+      <allow_referrer>1</allow_referrer>
+      <allow_shibboleth>1</allow_shibboleth>
+      <allow_userpass>1</allow_userpass>
+      <alternative_subs_id/>
+      <city/>
+      <concurrency>-1</concurrency>
+      <contact_forename/>
+      <contact_job_title/>
+      <contact_mobile_telephone/>
+      <contact_name>Nancy McGuire</contact_name>
+      <contact_title/>
+      <conversion_date/>
+      <conversion_type/>
+      <county/>
+      <currency/>
+      <deny_groups>administrator,ip-editor,ss-limited</deny_groups>
+      <email>Ncmcguir@bju.edu</email>
+      <fax/>
+      <grace_period>00:00:00</grace_period>
+      <if_sub_id>7858211</if_sub_id>
+      <ignore_end>1</ignore_end>
+      <ignore_start>1</ignore_start>
+      <is_inheritable>0</is_inheritable>
+      <isbn/>
+      <msd_order_id/>
+      <notes/>
+      <postcode/>
+      <prepayment_required>0</prepayment_required>
+      <price/>
+      <require_libcode>0</require_libcode>
+      <sales_rep/>
+      <satisfy_all_selected_creds>0</satisfy_all_selected_creds>
+      <status>OK</status>
+      <telephone/>
+      <acc_id x:href="/REST/account/10681" x:type="simple"/>
+      <concurrency_type_id x:href="/REST/concurrency_type/PER_SITE" x:type="simple"/>
+      <contact_acc_id/>
+      <converted_to_sub_id/>
+      <country_id x:href="/REST/country/us" x:type="simple"/>
+      <creation_date>2017-06-29 20:46:46</creation_date>
+      <end_date>2018-06-30</end_date>
+      <group_subs_id x:href="/REST/subscription/234247" x:type="simple"/>
+      <pe_id x:href="/REST/product_edition/OED" x:type="simple"/>
+      <publication_medium_id x:href="/REST/publication_medium/ONLINE" x:type="simple"/>
+      <start_date>2017-07-01</start_date>
+      <subscription_type_id x:href="/REST/subscription_type/1" x:type="simple"/>
+      <named_user_config/>
+      <subscription_invoice/>
+   </subscription>
+   <subscription x:href="/REST/subscription/3508476" x:type="simple">
+      <address1/>
+      <address2/>
+      <administered_by>USA</administered_by>
+      <allow_ip>1</allow_ip>
+      <allow_libcard>1</allow_libcard>
+      <allow_marketing_email>0</allow_marketing_email>
+      <allow_notification_email>0</allow_notification_email>
+      <allow_oauth>0</allow_oauth>
+      <allow_referrer>1</allow_referrer>
+      <allow_shibboleth>1</allow_shibboleth>
+      <allow_userpass>1</allow_userpass>
+      <alternative_subs_id/>
+      <city/>
+      <concurrency>-1</concurrency>
+      <contact_forename/>
+      <contact_job_title/>
+      <contact_mobile_telephone/>
+      <contact_name>Nancy McGuire</contact_name>
+      <contact_title/>
+      <conversion_date/>
+      <conversion_type/>
+      <county/>
+      <currency/>
+      <deny_groups>administrator,ip-editor,ss-limited</deny_groups>
+      <email>Ncmcguir@bju.edu</email>
+      <fax/>
+      <grace_period>00:00:00</grace_period>
+      <if_sub_id>7936979</if_sub_id>
+      <ignore_end>1</ignore_end>
+      <ignore_start>1</ignore_start>
+      <is_inheritable>0</is_inheritable>
+      <isbn/>
+      <msd_order_id/>
+      <notes/>
+      <postcode/>
+      <prepayment_required>0</prepayment_required>
+      <price/>
+      <require_libcode>0</require_libcode>
+      <sales_rep/>
+      <satisfy_all_selected_creds>0</satisfy_all_selected_creds>
+      <status>OK</status>
+      <telephone/>
+      <acc_id x:href="/REST/account/10681" x:type="simple"/>
+      <concurrency_type_id x:href="/REST/concurrency_type/PER_PRODUCT" x:type="simple"/>
+      <contact_acc_id/>
+      <converted_to_sub_id/>
+      <country_id x:href="/REST/country/us" x:type="simple"/>
+      <creation_date>2017-09-01 00:48:17</creation_date>
+      <end_date>2018-08-31</end_date>
+      <group_subs_id/>
+      <pe_id x:href="/REST/product_edition/PSYSEP12" x:type="simple"/>
+      <publication_medium_id x:href="/REST/publication_medium/ONLINE" x:type="simple"/>
+      <start_date>2017-09-01</start_date>
+      <subscription_type_id x:href="/REST/subscription_type/1" x:type="simple"/>
+      <named_user_config/>
+      <subscription_invoice/>
+   </subscription>
+   <subscription x:href="/REST/subscription/3508477" x:type="simple">
+      <address1/>
+      <address2/>
+      <administered_by>USA</administered_by>
+      <allow_ip>1</allow_ip>
+      <allow_libcard>1</allow_libcard>
+      <allow_marketing_email>0</allow_marketing_email>
+      <allow_notification_email>0</allow_notification_email>
+      <allow_oauth>0</allow_oauth>
+      <allow_referrer>1</allow_referrer>
+      <allow_shibboleth>1</allow_shibboleth>
+      <allow_userpass>1</allow_userpass>
+      <alternative_subs_id/>
+      <city/>
+      <concurrency>-1</concurrency>
+      <contact_forename/>
+      <contact_job_title/>
+      <contact_mobile_telephone/>
+      <contact_name>Nancy McGuire</contact_name>
+      <contact_title/>
+      <conversion_date/>
+      <conversion_type/>
+      <county/>
+      <currency/>
+      <deny_groups>administrator,ip-editor,ss-limited</deny_groups>
+      <email>Ncmcguir@bju.edu</email>
+      <fax/>
+      <grace_period>00:00:00</grace_period>
+      <if_sub_id>7936981</if_sub_id>
+      <ignore_end>1</ignore_end>
+      <ignore_start>1</ignore_start>
+      <is_inheritable>0</is_inheritable>
+      <isbn/>
+      <msd_order_id/>
+      <notes/>
+      <postcode/>
+      <prepayment_required>0</prepayment_required>
+      <price/>
+      <require_libcode>0</require_libcode>
+      <sales_rep/>
+      <satisfy_all_selected_creds>0</satisfy_all_selected_creds>
+      <status>OK</status>
+      <telephone/>
+      <acc_id x:href="/REST/account/10681" x:type="simple"/>
+      <concurrency_type_id x:href="/REST/concurrency_type/PER_PRODUCT" x:type="simple"/>
+      <contact_acc_id/>
+      <converted_to_sub_id/>
+      <country_id x:href="/REST/country/us" x:type="simple"/>
+      <creation_date>2017-09-01 00:48:17</creation_date>
+      <end_date>2018-08-31</end_date>
+      <group_subs_id/>
+      <pe_id x:href="/REST/product_edition/PSYJAN12" x:type="simple"/>
+      <publication_medium_id x:href="/REST/publication_medium/ONLINE" x:type="simple"/>
+      <start_date>2017-09-01</start_date>
+      <subscription_type_id x:href="/REST/subscription_type/1" x:type="simple"/>
+      <named_user_config/>
+      <subscription_invoice/>
+   </subscription>
+   <subscription x:href="/REST/subscription/3508478" x:type="simple">
+      <address1/>
+      <address2/>
+      <administered_by>USA</administered_by>
+      <allow_ip>1</allow_ip>
+      <allow_libcard>1</allow_libcard>
+      <allow_marketing_email>0</allow_marketing_email>
+      <allow_notification_email>0</allow_notification_email>
+      <allow_oauth>0</allow_oauth>
+      <allow_referrer>1</allow_referrer>
+      <allow_shibboleth>1</allow_shibboleth>
+      <allow_userpass>1</allow_userpass>
+      <alternative_subs_id/>
+      <city/>
+      <concurrency>-1</concurrency>
+      <contact_forename/>
+      <contact_job_title/>
+      <contact_mobile_telephone/>
+      <contact_name>Nancy McGuire</contact_name>
+      <contact_title/>
+      <conversion_date/>
+      <conversion_type/>
+      <county/>
+      <currency/>
+      <deny_groups>administrator,ip-editor,ss-limited</deny_groups>
+      <email>Ncmcguir@bju.edu</email>
+      <fax/>
+      <grace_period>00:00:00</grace_period>
+      <if_sub_id>7936989</if_sub_id>
+      <ignore_end>1</ignore_end>
+      <ignore_start>1</ignore_start>
+      <is_inheritable>0</is_inheritable>
+      <isbn/>
+      <msd_order_id/>
+      <notes/>
+      <postcode/>
+      <prepayment_required>0</prepayment_required>
+      <price/>
+      <require_libcode>0</require_libcode>
+      <sales_rep/>
+      <satisfy_all_selected_creds>0</satisfy_all_selected_creds>
+      <status>OK</status>
+      <telephone/>
+      <acc_id x:href="/REST/account/10681" x:type="simple"/>
+      <concurrency_type_id x:href="/REST/concurrency_type/PER_PRODUCT" x:type="simple"/>
+      <contact_acc_id/>
+      <converted_to_sub_id/>
+      <country_id x:href="/REST/country/us" x:type="simple"/>
+      <creation_date>2017-09-01 00:48:17</creation_date>
+      <end_date>2018-08-31</end_date>
+      <group_subs_id/>
+      <pe_id x:href="/REST/product_edition/PSYDBLM12" x:type="simple"/>
+      <publication_medium_id x:href="/REST/publication_medium/ONLINE" x:type="simple"/>
+      <start_date>2017-09-01</start_date>
+      <subscription_type_id x:href="/REST/subscription_type/1" x:type="simple"/>
+      <named_user_config/>
+      <subscription_invoice/>
+   </subscription>
+   <subscription x:href="/REST/subscription/3508479" x:type="simple">
+      <address1/>
+      <address2/>
+      <administered_by>USA</administered_by>
+      <allow_ip>1</allow_ip>
+      <allow_libcard>1</allow_libcard>
+      <allow_marketing_email>0</allow_marketing_email>
+      <allow_notification_email>0</allow_notification_email>
+      <allow_oauth>0</allow_oauth>
+      <allow_referrer>1</allow_referrer>
+      <allow_shibboleth>1</allow_shibboleth>
+      <allow_userpass>1</allow_userpass>
+      <alternative_subs_id/>
+      <city/>
+      <concurrency>-1</concurrency>
+      <contact_forename/>
+      <contact_job_title/>
+      <contact_mobile_telephone/>
+      <contact_name>Nancy McGuire</contact_name>
+      <contact_title/>
+      <conversion_date/>
+      <conversion_type/>
+      <county/>
+      <currency/>
+      <deny_groups>administrator,ip-editor,ss-limited</deny_groups>
+      <email>Ncmcguir@bju.edu</email>
+      <fax/>
+      <grace_period>00:00:00</grace_period>
+      <if_sub_id>7936971</if_sub_id>
+      <ignore_end>1</ignore_end>
+      <ignore_start>1</ignore_start>
+      <is_inheritable>0</is_inheritable>
+      <isbn/>
+      <msd_order_id/>
+      <notes/>
+      <postcode/>
+      <prepayment_required>0</prepayment_required>
+      <price/>
+      <require_libcode>0</require_libcode>
+      <sales_rep/>
+      <satisfy_all_selected_creds>0</satisfy_all_selected_creds>
+      <status>OK</status>
+      <telephone/>
+      <acc_id x:href="/REST/account/10681" x:type="simple"/>
+      <concurrency_type_id x:href="/REST/concurrency_type/PER_PRODUCT" x:type="simple"/>
+      <contact_acc_id/>
+      <converted_to_sub_id/>
+      <country_id x:href="/REST/country/us" x:type="simple"/>
+      <creation_date>2017-09-01 00:48:17</creation_date>
+      <end_date>2018-08-31</end_date>
+      <group_subs_id/>
+      <pe_id x:href="/REST/product_edition/PSYMAY12" x:type="simple"/>
+      <publication_medium_id x:href="/REST/publication_medium/ONLINE" x:type="simple"/>
+      <start_date>2017-09-01</start_date>
+      <subscription_type_id x:href="/REST/subscription_type/1" x:type="simple"/>
+      <named_user_config/>
+      <subscription_invoice/>
+   </subscription>
+   <subscription x:href="/REST/subscription/3508480" x:type="simple">
+      <address1/>
+      <address2/>
+      <administered_by>USA</administered_by>
+      <allow_ip>1</allow_ip>
+      <allow_libcard>1</allow_libcard>
+      <allow_marketing_email>0</allow_marketing_email>
+      <allow_notification_email>0</allow_notification_email>
+      <allow_oauth>0</allow_oauth>
+      <allow_referrer>1</allow_referrer>
+      <allow_shibboleth>1</allow_shibboleth>
+      <allow_userpass>1</allow_userpass>
+      <alternative_subs_id/>
+      <city/>
+      <concurrency>-1</concurrency>
+      <contact_forename/>
+      <contact_job_title/>
+      <contact_mobile_telephone/>
+      <contact_name>Nancy McGuire</contact_name>
+      <contact_title/>
+      <conversion_date/>
+      <conversion_type/>
+      <county/>
+      <currency/>
+      <deny_groups>administrator,ip-editor,ss-limited</deny_groups>
+      <email>Ncmcguir@bju.edu</email>
+      <fax/>
+      <grace_period>00:00:00</grace_period>
+      <if_sub_id>7936983</if_sub_id>
+      <ignore_end>1</ignore_end>
+      <ignore_start>1</ignore_start>
+      <is_inheritable>0</is_inheritable>
+      <isbn/>
+      <msd_order_id/>
+      <notes/>
+      <postcode/>
+      <prepayment_required>0</prepayment_required>
+      <price/>
+      <require_libcode>0</require_libcode>
+      <sales_rep/>
+      <satisfy_all_selected_creds>0</satisfy_all_selected_creds>
+      <status>OK</status>
+      <telephone/>
+      <acc_id x:href="/REST/account/10681" x:type="simple"/>
+      <concurrency_type_id x:href="/REST/concurrency_type/PER_PRODUCT" x:type="simple"/>
+      <contact_acc_id/>
+      <converted_to_sub_id/>
+      <country_id x:href="/REST/country/us" x:type="simple"/>
+      <creation_date>2017-09-01 00:48:17</creation_date>
+      <end_date>2018-08-31</end_date>
+      <group_subs_id/>
+      <pe_id x:href="/REST/product_edition/PSYJAN13" x:type="simple"/>
+      <publication_medium_id x:href="/REST/publication_medium/ONLINE" x:type="simple"/>
+      <start_date>2017-09-01</start_date>
+      <subscription_type_id x:href="/REST/subscription_type/1" x:type="simple"/>
+      <named_user_config/>
+      <subscription_invoice/>
+   </subscription>
+   <subscription x:href="/REST/subscription/3508481" x:type="simple">
+      <address1/>
+      <address2/>
+      <administered_by>USA</administered_by>
+      <allow_ip>1</allow_ip>
+      <allow_libcard>1</allow_libcard>
+      <allow_marketing_email>0</allow_marketing_email>
+      <allow_notification_email>0</allow_notification_email>
+      <allow_oauth>0</allow_oauth>
+      <allow_referrer>1</allow_referrer>
+      <allow_shibboleth>1</allow_shibboleth>
+      <allow_userpass>1</allow_userpass>
+      <alternative_subs_id/>
+      <city/>
+      <concurrency>-1</concurrency>
+      <contact_forename/>
+      <contact_job_title/>
+      <contact_mobile_telephone/>
+      <contact_name>Nancy McGuire</contact_name>
+      <contact_title/>
+      <conversion_date/>
+      <conversion_type/>
+      <county/>
+      <currency/>
+      <deny_groups>administrator,ip-editor,ss-limited</deny_groups>
+      <email>Ncmcguir@bju.edu</email>
+      <fax/>
+      <grace_period>00:00:00</grace_period>
+      <if_sub_id>7936969</if_sub_id>
+      <ignore_end>1</ignore_end>
+      <ignore_start>1</ignore_start>
+      <is_inheritable>0</is_inheritable>
+      <isbn/>
+      <msd_order_id/>
+      <notes/>
+      <postcode/>
+      <prepayment_required>0</prepayment_required>
+      <price/>
+      <require_libcode>0</require_libcode>
+      <sales_rep/>
+      <satisfy_all_selected_creds>0</satisfy_all_selected_creds>
+      <status>OK</status>
+      <telephone/>
+      <acc_id x:href="/REST/account/10681" x:type="simple"/>
+      <concurrency_type_id x:href="/REST/concurrency_type/PER_PRODUCT" x:type="simple"/>
+      <contact_acc_id/>
+      <converted_to_sub_id/>
+      <country_id x:href="/REST/country/us" x:type="simple"/>
+      <creation_date>2017-09-01 00:48:17</creation_date>
+      <end_date>2018-08-31</end_date>
+      <group_subs_id/>
+      <pe_id x:href="/REST/product_edition/PSYMAY13" x:type="simple"/>
+      <publication_medium_id x:href="/REST/publication_medium/ONLINE" x:type="simple"/>
+      <start_date>2017-09-01</start_date>
+      <subscription_type_id x:href="/REST/subscription_type/1" x:type="simple"/>
+      <named_user_config/>
+      <subscription_invoice/>
+   </subscription>
+   <subscription x:href="/REST/subscription/3508482" x:type="simple">
+      <address1/>
+      <address2/>
+      <administered_by>USA</administered_by>
+      <allow_ip>1</allow_ip>
+      <allow_libcard>1</allow_libcard>
+      <allow_marketing_email>0</allow_marketing_email>
+      <allow_notification_email>0</allow_notification_email>
+      <allow_oauth>0</allow_oauth>
+      <allow_referrer>1</allow_referrer>
+      <allow_shibboleth>1</allow_shibboleth>
+      <allow_userpass>1</allow_userpass>
+      <alternative_subs_id/>
+      <city/>
+      <concurrency>-1</concurrency>
+      <contact_forename/>
+      <contact_job_title/>
+      <contact_mobile_telephone/>
+      <contact_name>Nancy McGuire</contact_name>
+      <contact_title/>
+      <conversion_date/>
+      <conversion_type/>
+      <county/>
+      <currency/>
+      <deny_groups>administrator,ip-editor,ss-limited</deny_groups>
+      <email>Ncmcguir@bju.edu</email>
+      <fax/>
+      <grace_period>00:00:00</grace_period>
+      <if_sub_id>7936967</if_sub_id>
+      <ignore_end>1</ignore_end>
+      <ignore_start>1</ignore_start>
+      <is_inheritable>0</is_inheritable>
+      <isbn/>
+      <msd_order_id/>
+      <notes/>
+      <postcode/>
+      <prepayment_required>0</prepayment_required>
+      <price/>
+      <require_libcode>0</require_libcode>
+      <sales_rep/>
+      <satisfy_all_selected_creds>0</satisfy_all_selected_creds>
+      <status>OK</status>
+      <telephone/>
+      <acc_id x:href="/REST/account/10681" x:type="simple"/>
+      <concurrency_type_id x:href="/REST/concurrency_type/PER_PRODUCT" x:type="simple"/>
+      <contact_acc_id/>
+      <converted_to_sub_id/>
+      <country_id x:href="/REST/country/us" x:type="simple"/>
+      <creation_date>2017-09-01 00:48:17</creation_date>
+      <end_date>2018-08-31</end_date>
+      <group_subs_id/>
+      <pe_id x:href="/REST/product_edition/PSYJAN14" x:type="simple"/>
+      <publication_medium_id x:href="/REST/publication_medium/ONLINE" x:type="simple"/>
+      <start_date>2017-09-01</start_date>
+      <subscription_type_id x:href="/REST/subscription_type/1" x:type="simple"/>
+      <named_user_config/>
+      <subscription_invoice/>
+   </subscription>
+   <subscription x:href="/REST/subscription/3508483" x:type="simple">
+      <address1/>
+      <address2/>
+      <administered_by>USA</administered_by>
+      <allow_ip>1</allow_ip>
+      <allow_libcard>1</allow_libcard>
+      <allow_marketing_email>0</allow_marketing_email>
+      <allow_notification_email>0</allow_notification_email>
+      <allow_oauth>0</allow_oauth>
+      <allow_referrer>1</allow_referrer>
+      <allow_shibboleth>1</allow_shibboleth>
+      <allow_userpass>1</allow_userpass>
+      <alternative_subs_id/>
+      <city/>
+      <concurrency>-1</concurrency>
+      <contact_forename/>
+      <contact_job_title/>
+      <contact_mobile_telephone/>
+      <contact_name>Nancy McGuire</contact_name>
+      <contact_title/>
+      <conversion_date/>
+      <conversion_type/>
+      <county/>
+      <currency/>
+      <deny_groups>administrator,ip-editor,ss-limited</deny_groups>
+      <email>Ncmcguir@bju.edu</email>
+      <fax/>
+      <grace_period>00:00:00</grace_period>
+      <if_sub_id>7936975</if_sub_id>
+      <ignore_end>1</ignore_end>
+      <ignore_start>1</ignore_start>
+      <is_inheritable>0</is_inheritable>
+      <isbn/>
+      <msd_order_id/>
+      <notes/>
+      <postcode/>
+      <prepayment_required>0</prepayment_required>
+      <price/>
+      <require_libcode>0</require_libcode>
+      <sales_rep/>
+      <satisfy_all_selected_creds>0</satisfy_all_selected_creds>
+      <status>OK</status>
+      <telephone/>
+      <acc_id x:href="/REST/account/10681" x:type="simple"/>
+      <concurrency_type_id x:href="/REST/concurrency_type/PER_PRODUCT" x:type="simple"/>
+      <contact_acc_id/>
+      <converted_to_sub_id/>
+      <country_id x:href="/REST/country/us" x:type="simple"/>
+      <creation_date>2017-09-01 00:48:17</creation_date>
+      <end_date>2018-08-31</end_date>
+      <group_subs_id/>
+      <pe_id x:href="/REST/product_edition/PSYSEP13" x:type="simple"/>
+      <publication_medium_id x:href="/REST/publication_medium/ONLINE" x:type="simple"/>
+      <start_date>2017-09-01</start_date>
+      <subscription_type_id x:href="/REST/subscription_type/1" x:type="simple"/>
+      <named_user_config/>
+      <subscription_invoice/>
+   </subscription>
+   <subscription x:href="/REST/subscription/3508484" x:type="simple">
+      <address1/>
+      <address2/>
+      <administered_by>USA</administered_by>
+      <allow_ip>1</allow_ip>
+      <allow_libcard>1</allow_libcard>
+      <allow_marketing_email>0</allow_marketing_email>
+      <allow_notification_email>0</allow_notification_email>
+      <allow_oauth>0</allow_oauth>
+      <allow_referrer>1</allow_referrer>
+      <allow_shibboleth>1</allow_shibboleth>
+      <allow_userpass>1</allow_userpass>
+      <alternative_subs_id/>
+      <city/>
+      <concurrency>-1</concurrency>
+      <contact_forename/>
+      <contact_job_title/>
+      <contact_mobile_telephone/>
+      <contact_name>Nancy McGuire</contact_name>
+      <contact_title/>
+      <conversion_date/>
+      <conversion_type/>
+      <county/>
+      <currency/>
+      <deny_groups>administrator,ip-editor,ss-limited</deny_groups>
+      <email>Ncmcguir@bju.edu</email>
+      <fax/>
+      <grace_period>00:00:00</grace_period>
+      <if_sub_id>7936987</if_sub_id>
+      <ignore_end>1</ignore_end>
+      <ignore_start>1</ignore_start>
+      <is_inheritable>0</is_inheritable>
+      <isbn/>
+      <msd_order_id/>
+      <notes/>
+      <postcode/>
+      <prepayment_required>0</prepayment_required>
+      <price/>
+      <require_libcode>0</require_libcode>
+      <sales_rep/>
+      <satisfy_all_selected_creds>0</satisfy_all_selected_creds>
+      <status>OK</status>
+      <telephone/>
+      <acc_id x:href="/REST/account/10681" x:type="simple"/>
+      <concurrency_type_id x:href="/REST/concurrency_type/PER_PRODUCT" x:type="simple"/>
+      <contact_acc_id/>
+      <converted_to_sub_id/>
+      <country_id x:href="/REST/country/us" x:type="simple"/>
+      <creation_date>2017-09-01 00:48:17</creation_date>
+      <end_date>2018-08-31</end_date>
+      <group_subs_id/>
+      <pe_id x:href="/REST/product_edition/YPSYOCT13" x:type="simple"/>
+      <publication_medium_id x:href="/REST/publication_medium/ONLINE" x:type="simple"/>
+      <start_date>2017-09-01</start_date>
+      <subscription_type_id x:href="/REST/subscription_type/1" x:type="simple"/>
+      <named_user_config/>
+      <subscription_invoice/>
+   </subscription>
+   <subscription x:href="/REST/subscription/3508485" x:type="simple">
+      <address1/>
+      <address2/>
+      <administered_by>USA</administered_by>
+      <allow_ip>1</allow_ip>
+      <allow_libcard>1</allow_libcard>
+      <allow_marketing_email>0</allow_marketing_email>
+      <allow_notification_email>0</allow_notification_email>
+      <allow_oauth>0</allow_oauth>
+      <allow_referrer>1</allow_referrer>
+      <allow_shibboleth>1</allow_shibboleth>
+      <allow_userpass>1</allow_userpass>
+      <alternative_subs_id/>
+      <city/>
+      <concurrency>-1</concurrency>
+      <contact_forename/>
+      <contact_job_title/>
+      <contact_mobile_telephone/>
+      <contact_name>Nancy McGuire</contact_name>
+      <contact_title/>
+      <conversion_date/>
+      <conversion_type/>
+      <county/>
+      <currency/>
+      <deny_groups>administrator,ip-editor,ss-limited</deny_groups>
+      <email>Ncmcguir@bju.edu</email>
+      <fax/>
+      <grace_period>00:00:00</grace_period>
+      <if_sub_id>7936977</if_sub_id>
+      <ignore_end>1</ignore_end>
+      <ignore_start>1</ignore_start>
+      <is_inheritable>0</is_inheritable>
+      <isbn/>
+      <msd_order_id/>
+      <notes/>
+      <postcode/>
+      <prepayment_required>0</prepayment_required>
+      <price/>
+      <require_libcode>0</require_libcode>
+      <sales_rep/>
+      <satisfy_all_selected_creds>0</satisfy_all_selected_creds>
+      <status>OK</status>
+      <telephone/>
+      <acc_id x:href="/REST/account/10681" x:type="simple"/>
+      <concurrency_type_id x:href="/REST/concurrency_type/PER_PRODUCT" x:type="simple"/>
+      <contact_acc_id/>
+      <converted_to_sub_id/>
+      <country_id x:href="/REST/country/us" x:type="simple"/>
+      <creation_date>2017-09-01 00:48:17</creation_date>
+      <end_date>2018-08-31</end_date>
+      <group_subs_id/>
+      <pe_id x:href="/REST/product_edition/PSYMAY14" x:type="simple"/>
+      <publication_medium_id x:href="/REST/publication_medium/ONLINE" x:type="simple"/>
+      <start_date>2017-09-01</start_date>
+      <subscription_type_id x:href="/REST/subscription_type/1" x:type="simple"/>
+      <named_user_config/>
+      <subscription_invoice/>
+   </subscription>
+   <subscription x:href="/REST/subscription/3508486" x:type="simple">
+      <address1/>
+      <address2/>
+      <administered_by>USA</administered_by>
+      <allow_ip>1</allow_ip>
+      <allow_libcard>1</allow_libcard>
+      <allow_marketing_email>0</allow_marketing_email>
+      <allow_notification_email>0</allow_notification_email>
+      <allow_oauth>0</allow_oauth>
+      <allow_referrer>1</allow_referrer>
+      <allow_shibboleth>1</allow_shibboleth>
+      <allow_userpass>1</allow_userpass>
+      <alternative_subs_id/>
+      <city/>
+      <concurrency>-1</concurrency>
+      <contact_forename/>
+      <contact_job_title/>
+      <contact_mobile_telephone/>
+      <contact_name>Nancy McGuire</contact_name>
+      <contact_title/>
+      <conversion_date/>
+      <conversion_type/>
+      <county/>
+      <currency/>
+      <deny_groups>administrator,ip-editor,ss-limited</deny_groups>
+      <email>Ncmcguir@bju.edu</email>
+      <fax/>
+      <grace_period>00:00:00</grace_period>
+      <if_sub_id>7936985</if_sub_id>
+      <ignore_end>1</ignore_end>
+      <ignore_start>1</ignore_start>
+      <is_inheritable>0</is_inheritable>
+      <isbn/>
+      <msd_order_id/>
+      <notes/>
+      <postcode/>
+      <prepayment_required>0</prepayment_required>
+      <price/>
+      <require_libcode>0</require_libcode>
+      <sales_rep/>
+      <satisfy_all_selected_creds>0</satisfy_all_selected_creds>
+      <status>OK</status>
+      <telephone/>
+      <acc_id x:href="/REST/account/10681" x:type="simple"/>
+      <concurrency_type_id x:href="/REST/concurrency_type/PER_PRODUCT" x:type="simple"/>
+      <contact_acc_id/>
+      <converted_to_sub_id/>
+      <country_id x:href="/REST/country/us" x:type="simple"/>
+      <creation_date>2017-09-01 00:48:17</creation_date>
+      <end_date>2018-08-31</end_date>
+      <group_subs_id/>
+      <pe_id x:href="/REST/product_edition/YPSYJAN14" x:type="simple"/>
+      <publication_medium_id x:href="/REST/publication_medium/ONLINE" x:type="simple"/>
+      <start_date>2017-09-01</start_date>
+      <subscription_type_id x:href="/REST/subscription_type/1" x:type="simple"/>
+      <named_user_config/>
+      <subscription_invoice/>
+   </subscription>
+   <subscription x:href="/REST/subscription/3508487" x:type="simple">
+      <address1/>
+      <address2/>
+      <administered_by>USA</administered_by>
+      <allow_ip>1</allow_ip>
+      <allow_libcard>1</allow_libcard>
+      <allow_marketing_email>0</allow_marketing_email>
+      <allow_notification_email>0</allow_notification_email>
+      <allow_oauth>0</allow_oauth>
+      <allow_referrer>1</allow_referrer>
+      <allow_shibboleth>1</allow_shibboleth>
+      <allow_userpass>1</allow_userpass>
+      <alternative_subs_id/>
+      <city/>
+      <concurrency>-1</concurrency>
+      <contact_forename/>
+      <contact_job_title/>
+      <contact_mobile_telephone/>
+      <contact_name>Nancy McGuire</contact_name>
+      <contact_title/>
+      <conversion_date/>
+      <conversion_type/>
+      <county/>
+      <currency/>
+      <deny_groups>administrator,ip-editor,ss-limited</deny_groups>
+      <email>Ncmcguir@bju.edu</email>
+      <fax/>
+      <grace_period>00:00:00</grace_period>
+      <if_sub_id>7936973</if_sub_id>
+      <ignore_end>1</ignore_end>
+      <ignore_start>1</ignore_start>
+      <is_inheritable>0</is_inheritable>
+      <isbn/>
+      <msd_order_id/>
+      <notes/>
+      <postcode/>
+      <prepayment_required>0</prepayment_required>
+      <price/>
+      <require_libcode>0</require_libcode>
+      <sales_rep/>
+      <satisfy_all_selected_creds>0</satisfy_all_selected_creds>
+      <status>OK</status>
+      <telephone/>
+      <acc_id x:href="/REST/account/10681" x:type="simple"/>
+      <concurrency_type_id x:href="/REST/concurrency_type/PER_PRODUCT" x:type="simple"/>
+      <contact_acc_id/>
+      <converted_to_sub_id/>
+      <country_id x:href="/REST/country/us" x:type="simple"/>
+      <creation_date>2017-09-01 00:48:17</creation_date>
+      <end_date>2018-08-31</end_date>
+      <group_subs_id/>
+      <pe_id x:href="/REST/product_edition/MITPSYMAY14" x:type="simple"/>
+      <publication_medium_id x:href="/REST/publication_medium/ONLINE" x:type="simple"/>
+      <start_date>2017-09-01</start_date>
+      <subscription_type_id x:href="/REST/subscription_type/1" x:type="simple"/>
+      <named_user_config/>
+      <subscription_invoice/>
+   </subscription>
+   <subscription x:href="/REST/subscription/3563230" x:type="simple">
+      <address1/>
+      <address2/>
+      <administered_by>USA</administered_by>
+      <allow_ip>1</allow_ip>
+      <allow_libcard>1</allow_libcard>
+      <allow_marketing_email>0</allow_marketing_email>
+      <allow_notification_email>0</allow_notification_email>
+      <allow_oauth>0</allow_oauth>
+      <allow_referrer>1</allow_referrer>
+      <allow_shibboleth>1</allow_shibboleth>
+      <allow_userpass>1</allow_userpass>
+      <alternative_subs_id/>
+      <city/>
+      <concurrency>-1</concurrency>
+      <contact_forename/>
+      <contact_job_title/>
+      <contact_mobile_telephone/>
+      <contact_name>Nancy McGuire</contact_name>
+      <contact_title/>
+      <conversion_date/>
+      <conversion_type/>
+      <county/>
+      <currency/>
+      <deny_groups>administrator,ip-editor,ss-limited</deny_groups>
+      <email>Ncmcguir@bju.edu</email>
+      <fax/>
+      <grace_period>00:00:00</grace_period>
+      <if_sub_id>7993766</if_sub_id>
+      <ignore_end>1</ignore_end>
+      <ignore_start>1</ignore_start>
+      <is_inheritable>0</is_inheritable>
+      <isbn/>
+      <msd_order_id/>
+      <notes/>
+      <postcode/>
+      <prepayment_required>0</prepayment_required>
+      <price/>
+      <require_libcode>0</require_libcode>
+      <sales_rep/>
+      <satisfy_all_selected_creds>0</satisfy_all_selected_creds>
+      <status>OK</status>
+      <telephone/>
+      <acc_id x:href="/REST/account/10681" x:type="simple"/>
+      <concurrency_type_id x:href="/REST/concurrency_type/PER_PRODUCT" x:type="simple"/>
+      <contact_acc_id/>
+      <converted_to_sub_id/>
+      <country_id x:href="/REST/country/us" x:type="simple"/>
+      <creation_date>2017-10-01 01:02:54</creation_date>
+      <end_date>2018-09-30</end_date>
+      <group_subs_id/>
+      <pe_id x:href="/REST/product_edition/PSYSEP14" x:type="simple"/>
+      <publication_medium_id x:href="/REST/publication_medium/ONLINE" x:type="simple"/>
+      <start_date>2017-10-01</start_date>
+      <subscription_type_id x:href="/REST/subscription_type/1" x:type="simple"/>
+      <named_user_config/>
+      <subscription_invoice/>
+   </subscription>
+   <subscription x:href="/REST/subscription/3563231" x:type="simple">
+      <address1/>
+      <address2/>
+      <administered_by>USA</administered_by>
+      <allow_ip>1</allow_ip>
+      <allow_libcard>1</allow_libcard>
+      <allow_marketing_email>0</allow_marketing_email>
+      <allow_notification_email>0</allow_notification_email>
+      <allow_oauth>0</allow_oauth>
+      <allow_referrer>1</allow_referrer>
+      <allow_shibboleth>1</allow_shibboleth>
+      <allow_userpass>1</allow_userpass>
+      <alternative_subs_id/>
+      <city/>
+      <concurrency>-1</concurrency>
+      <contact_forename/>
+      <contact_job_title/>
+      <contact_mobile_telephone/>
+      <contact_name>Nancy McGuire</contact_name>
+      <contact_title/>
+      <conversion_date/>
+      <conversion_type/>
+      <county/>
+      <currency/>
+      <deny_groups>administrator,ip-editor,ss-limited</deny_groups>
+      <email>Ncmcguir@bju.edu</email>
+      <fax/>
+      <grace_period>00:00:00</grace_period>
+      <if_sub_id>7993764</if_sub_id>
+      <ignore_end>1</ignore_end>
+      <ignore_start>1</ignore_start>
+      <is_inheritable>0</is_inheritable>
+      <isbn/>
+      <msd_order_id/>
+      <notes/>
+      <postcode/>
+      <prepayment_required>0</prepayment_required>
+      <price/>
+      <require_libcode>0</require_libcode>
+      <sales_rep/>
+      <satisfy_all_selected_creds>0</satisfy_all_selected_creds>
+      <status>OK</status>
+      <telephone/>
+      <acc_id x:href="/REST/account/10681" x:type="simple"/>
+      <concurrency_type_id x:href="/REST/concurrency_type/PER_SITE" x:type="simple"/>
+      <contact_acc_id/>
+      <converted_to_sub_id/>
+      <country_id x:href="/REST/country/us" x:type="simple"/>
+      <creation_date>2017-10-01 01:02:54</creation_date>
+      <end_date>2018-09-30</end_date>
+      <group_subs_id/>
+      <pe_id x:href="/REST/product_edition/MITPSYSEP14" x:type="simple"/>
+      <publication_medium_id x:href="/REST/publication_medium/ONLINE" x:type="simple"/>
+      <start_date>2017-10-01</start_date>
+      <subscription_type_id x:href="/REST/subscription_type/1" x:type="simple"/>
+      <named_user_config/>
+      <subscription_invoice/>
+   </subscription>
+   <subscription x:href="/REST/subscription/3609058" x:type="simple">
+      <address1/>
+      <address2/>
+      <administered_by>USA</administered_by>
+      <allow_ip>1</allow_ip>
+      <allow_libcard>1</allow_libcard>
+      <allow_marketing_email>0</allow_marketing_email>
+      <allow_notification_email>0</allow_notification_email>
+      <allow_oauth>1</allow_oauth>
+      <allow_referrer>1</allow_referrer>
+      <allow_shibboleth>1</allow_shibboleth>
+      <allow_userpass>1</allow_userpass>
+      <alternative_subs_id/>
+      <city/>
+      <concurrency>-1</concurrency>
+      <contact_forename/>
+      <contact_job_title/>
+      <contact_mobile_telephone/>
+      <contact_name>Nancy McGuire</contact_name>
+      <contact_title/>
+      <conversion_date/>
+      <conversion_type/>
+      <county/>
+      <currency/>
+      <deny_groups/>
+      <email>Ncmcguir@bju.edu</email>
+      <fax/>
+      <grace_period>00:00:00</grace_period>
+      <if_sub_id>8035961</if_sub_id>
+      <ignore_end>1</ignore_end>
+      <ignore_start>1</ignore_start>
+      <is_inheritable>0</is_inheritable>
+      <isbn/>
+      <msd_order_id/>
+      <notes/>
+      <postcode/>
+      <prepayment_required>0</prepayment_required>
+      <price/>
+      <require_libcode>0</require_libcode>
+      <sales_rep/>
+      <satisfy_all_selected_creds>0</satisfy_all_selected_creds>
+      <status>OK</status>
+      <telephone/>
+      <acc_id x:href="/REST/account/10681" x:type="simple"/>
+      <concurrency_type_id x:href="/REST/concurrency_type/PER_PRODUCT" x:type="simple"/>
+      <contact_acc_id/>
+      <converted_to_sub_id/>
+      <country_id x:href="/REST/country/us" x:type="simple"/>
+      <creation_date>2017-11-01 00:36:29</creation_date>
+      <end_date>2018-10-31</end_date>
+      <group_subs_id/>
+      <pe_id x:href="/REST/product_edition/EBKOEBTHE" x:type="simple"/>
+      <publication_medium_id x:href="/REST/publication_medium/ONLINE" x:type="simple"/>
+      <start_date>2017-11-01</start_date>
+      <subscription_type_id x:href="/REST/subscription_type/1" x:type="simple"/>
+      <named_user_config/>
+      <subscription_invoice/>
+   </subscription>
+   <subscription x:href="/REST/subscription/5555555" x:type="simple">
+      <address1/>
+      <address2/>
+      <administered_by>USA</administered_by>
+      <allow_ip>1</allow_ip>
+      <allow_libcard>1</allow_libcard>
+      <allow_marketing_email>0</allow_marketing_email>
+      <allow_notification_email>0</allow_notification_email>
+      <allow_oauth>1</allow_oauth>
+      <allow_referrer>1</allow_referrer>
+      <allow_shibboleth>1</allow_shibboleth>
+      <allow_userpass>1</allow_userpass>
+      <alternative_subs_id/>
+      <city/>
+      <concurrency>-1</concurrency>
+      <contact_forename/>
+      <contact_job_title/>
+      <contact_mobile_telephone/>
+      <contact_name>Nancy McGuire</contact_name>
+      <contact_title/>
+      <conversion_date/>
+      <conversion_type/>
+      <county/>
+      <currency/>
+      <deny_groups/>
+      <email>Ncmcguir@bju.edu</email>
+      <fax/>
+      <grace_period>00:00:00</grace_period>
+      <if_sub_id></if_sub_id>
+      <ignore_end>1</ignore_end>
+      <ignore_start>1</ignore_start>
+      <is_inheritable>0</is_inheritable>
+      <isbn/>
+      <msd_order_id/>
+      <notes/>
+      <postcode/>
+      <prepayment_required>0</prepayment_required>
+      <price/>
+      <require_libcode>0</require_libcode>
+      <sales_rep/>
+      <satisfy_all_selected_creds>0</satisfy_all_selected_creds>
+      <status>OK</status>
+      <telephone/>
+      <acc_id x:href="/REST/account/10681" x:type="simple"/>
+      <concurrency_type_id x:href="/REST/concurrency_type/PER_PRODUCT" x:type="simple"/>
+      <contact_acc_id/>
+      <converted_to_sub_id/>
+      <country_id x:href="/REST/country/us" x:type="simple"/>
+      <creation_date>2017-11-01 00:36:29</creation_date>
+      <end_date>2018-10-31</end_date>
+      <group_subs_id/>
+      <pe_id x:href="/REST/product_edition/EBKOEBTHE" x:type="simple"/>
+      <publication_medium_id x:href="/REST/publication_medium/ONLINE" x:type="simple"/>
+      <start_date>2017-11-01</start_date>
+      <subscription_type_id x:href="/REST/subscription_type/1" x:type="simple"/>
+      <named_user_config/>
+      <subscription_invoice/>
+   </subscription>
+   <sams_puid/>
+</sams:resource>

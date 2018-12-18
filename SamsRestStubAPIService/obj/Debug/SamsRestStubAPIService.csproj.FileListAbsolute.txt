@@ -1,0 +1,6 @@
+E:\SamsRestStubAPIService\SamsRestStubAPIService\bin\SamsRestStubAPIService.dll.config
+E:\SamsRestStubAPIService\SamsRestStubAPIService\bin\SamsRestStubAPIService.dll
+E:\SamsRestStubAPIService\SamsRestStubAPIService\bin\SamsRestStubAPIService.pdb
+E:\SamsRestStubAPIService\SamsRestStubAPIService\obj\Debug\SamsRestStubAPIService.dll
+E:\SamsRestStubAPIService\SamsRestStubAPIService\obj\Debug\SamsRestStubAPIService.pdb
+E:\SamsRestStubAPIService\SamsRestStubAPIService\obj\Debug\SamsRestStubAPIService.csprojResolveAssemblyReference.cache

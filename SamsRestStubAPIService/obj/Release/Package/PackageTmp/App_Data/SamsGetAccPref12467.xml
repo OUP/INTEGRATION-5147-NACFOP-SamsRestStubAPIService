@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sams:resource xmlns="http://semantico.com/xmlns/sams-db" xmlns:sams="http://semantico.com/xmlns/sams" xmlns:x="http://www.w3.org/1999/xlink">
+   <account_preference x:href="/REST/account_preference/12329/information_resource_2" x:type="simple">
+      <value/>
+      <acc_id x:href="/REST/account/12329" x:type="simple"/>
+   </account_preference>
+   <account_preference x:href="/REST/account_preference/12329/is_openurl_enabled" x:type="simple">
+      <value>false</value>
+      <acc_id x:href="/REST/account/12329" x:type="simple"/>
+   </account_preference>
+   <account_preference x:href="/REST/account_preference/12329/openurl_format" x:type="simple">
+      <value>kev</value>
+      <acc_id x:href="/REST/account/12329" x:type="simple"/>
+   </account_preference>
+   <account_preference x:href="/REST/account_preference/12329/information_resource_1" x:type="simple">
+      <value/>
+      <acc_id x:href="/REST/account/12329" x:type="simple"/>
+   </account_preference>
+   <account_preference x:href="/REST/account_preference/12329/springerlink_information_resource_label_override" x:type="simple">
+      <value/>
+      <acc_id x:href="/REST/account/12329" x:type="simple"/>
+   </account_preference>
+   <account_preference x:href="/REST/account_preference/12329/ebrary_information_resource_label_override" x:type="simple">
+      <value/>
+      <acc_id x:href="/REST/account/12329" x:type="simple"/>
+   </account_preference>
+   <account_preference x:href="/REST/account_preference/12329/copac_is_information_resource_link" x:type="simple">
+      <value/>
+      <acc_id x:href="/REST/account/12329" x:type="simple"/>
+   </account_preference>
+   <account_preference x:href="/REST/account_preference/12329/jccc_is_information_resource_search" x:type="simple">
+      <value/>
+      <acc_id x:href="/REST/account/12329" x:type="simple"/>
+   </account_preference>
+   <account_preference x:href="/REST/account_preference/12329/ebsco_is_information_resource_link" x:type="simple">
+      <value/>
+      <acc_id x:href="/REST/account/12329" x:type="simple"/>
+   </account_preference>
+   <account_preference x:href="/REST/account_preference/12329/openurl_resolver" x:type="simple">
+      <value>http://mgetit.lib.umich.edu/</value>
+      <acc_id x:href="/REST/account/12329" x:type="simple"/>
+   </account_preference>
+   <account_preference x:href="/REST/account_preference/12329/primo_is_library_discovery_search" x:type="simple">
+      <value/>
+      <acc_id x:href="/REST/account/12329" x:type="simple"/>
+   </account_preference>
+   <account_preference x:href="/REST/account_preference/12329/disable_download" x:type="simple">
+      <value>true</value>
+      <acc_id x:href="/REST/account/12329" x:type="simple"/>
+   </account_preference>
+   <account_preference x:href="/REST/account_preference/12329/oxford_index_information_resource_label_override" x:type="simple">
+      <value/>
+      <acc_id x:href="/REST/account/12329" x:type="simple"/>
+   </account_preference>
+   <account_preference x:href="/REST/account_preference/12329/information_resource_3" x:type="simple">
+      <value/>
+      <acc_id x:href="/REST/account/12329" x:type="simple"/>
+   </account_preference>
+   <account_preference x:href="/REST/account_preference/12329/ebsco_library_discovery_service_url" x:type="simple">
+      <value/>
+      <acc_id x:href="/REST/account/12329" x:type="simple"/>
+   </account_preference>
+   <account_preference x:href="/REST/account_preference/12329/is_worldcat_link" x:type="simple">
+      <value>false</value>
+      <acc_id x:href="/REST/account/12329" x:type="simple"/>
+   </account_preference>
+   <account_preference x:href="/REST/account_preference/12329/primo_library_discovery_service_url" x:type="simple">
+      <value/>
+      <acc_id x:href="/REST/account/12329" x:type="simple"/>
+   </account_preference>
+   <account_preference x:href="/REST/account_preference/12329/jccc_is_information_resource_link" x:type="simple">
+      <value/>
+      <acc_id x:href="/REST/account/12329" x:type="simple"/>
+   </account_preference>
+   <account_preference x:href="/REST/account_preference/12329/is_google_preview_search" x:type="simple">
+      <value>false</value>
+      <acc_id x:href="/REST/account/12329" x:type="simple"/>
+   </account_preference>
+   <account_preference x:href="/REST/account_preference/12329/cambridge_books_information_resource_label_override" x:type="simple">
+      <value/>
+      <acc_id x:href="/REST/account/12329" x:type="simple"/>
+   </account_preference>
+   <account_preference x:href="/REST/account_preference/12329/iso_lang" x:type="simple">
+      <value/>
+      <acc_id x:href="/REST/account/12329" x:type="simple"/>
+   </account_preference>
+   <account_preference x:href="/REST/account_preference/12329/jstor_is_information_resource_search" x:type="simple">
+      <value/>
+      <acc_id x:href="/REST/account/12329" x:type="simple"/>
+   </account_preference>
+   <account_preference x:href="/REST/account_preference/12329/information_resource_4" x:type="simple">
+      <value/>
+      <acc_id x:href="/REST/account/12329" x:type="simple"/>
+   </account_preference>
+   <account_preference x:href="/REST/account_preference/12329/is_classic" x:type="simple">
+      <value>http://proxy.lib.umich.edu/login?url=http://umich.classical.com</value>
+      <acc_id x:href="/REST/account/12329" x:type="simple"/>
+   </account_preference>
+   <account_preference x:href="/REST/account_preference/12329/odo_dictionary" x:type="simple">
+      <value/>
+      <acc_id x:href="/REST/account/12329" x:type="simple"/>
+   </account_preference>
+   <account_preference x:href="/REST/account_preference/12329/openurl_icon" x:type="simple">
+      <value>http://www.lib.umich.edu/graphics/mgetit_icon.gif</value>
+      <acc_id x:href="/REST/account/12329" x:type="simple"/>
+   </account_preference>
+   <account_preference x:href="/REST/account_preference/12329/ebsco_is_information_resource_search" x:type="simple">
+      <value/>
+      <acc_id x:href="/REST/account/12329" x:type="simple"/>
+   </account_preference>
+   <account_preference x:href="/REST/account_preference/12329/copac_information_resource_label_override" x:type="simple">
+      <value/>
+      <acc_id x:href="/REST/account/12329" x:type="simple"/>
+   </account_preference>
+   <account_preference x:href="/REST/account_preference/12329/oxford_index_is_information_resource_link" x:type="simple">
+      <value/>
+      <acc_id x:href="/REST/account/12329" x:type="simple"/>
+   </account_preference>
+   <account_preference x:href="/REST/account_preference/12329/rilm_url" x:type="simple">
+      <value>http://proxy.lib.umich.edu/login?url=http://www.csa.com/htbin/dbrng.cgi?username=umich&amp;access=umich093&amp;db=rilm-set-c</value>
+      <acc_id x:href="/REST/account/12329" x:type="simple"/>
+   </account_preference>
+   <account_preference x:href="/REST/account_preference/12329/ebsco_is_library_discovery_link" x:type="simple">
+      <value/>
+      <acc_id x:href="/REST/account/12329" x:type="simple"/>
+   </account_preference>
+   <account_preference x:href="/REST/account_preference/12329/old_oro_acc_id" x:type="simple">
+      <value>1317</value>
+      <acc_id x:href="/REST/account/12329" x:type="simple"/>
+   </account_preference>
+   <account_preference x:href="/REST/account_preference/12329/myilibrary_is_information_resource_link" x:type="simple">
+      <value/>
+      <acc_id x:href="/REST/account/12329" x:type="simple"/>
+   </account_preference>
+   <account_preference x:href="/REST/account_preference/12329/openurl_version" x:type="simple">
+      <value>1.0</value>
+      <acc_id x:href="/REST/account/12329" x:type="simple"/>
+   </account_preference>
+   <account_preference x:href="/REST/account_preference/12329/library_discovery_service_label_override" x:type="simple">
+      <value/>
+      <acc_id x:href="/REST/account/12329" x:type="simple"/>
+   </account_preference>
+   <account_preference x:href="/REST/account_preference/12329/naxos_url" x:type="simple">
+      <value/>
+      <acc_id x:href="/REST/account/12329" x:type="simple"/>
+   </account_preference>
+   <account_preference x:href="/REST/account_preference/12329/jstor_is_information_resource_link" x:type="simple">
+      <value/>
+      <acc_id x:href="/REST/account/12329" x:type="simple"/>
+   </account_preference>
+   <account_preference x:href="/REST/account_preference/12329/cambridge_books_is_information_resource_link" x:type="simple">
+      <value/>
+      <acc_id x:href="/REST/account/12329" x:type="simple"/>
+   </account_preference>
+   <account_preference x:href="/REST/account_preference/12329/ebrary_is_information_resource_link" x:type="simple">
+      <value/>
+      <acc_id x:href="/REST/account/12329" x:type="simple"/>
+   </account_preference>
+   <account_preference x:href="/REST/account_preference/12329/org_logo_link" x:type="simple">
+      <value>http://www.lib.umich.edu/</value>
+      <acc_id x:href="/REST/account/12329" x:type="simple"/>
+   </account_preference>
+   <account_preference x:href="/REST/account_preference/12329/is_dram" x:type="simple">
+      <value>false</value>
+      <acc_id x:href="/REST/account/12329" x:type="simple"/>
+   </account_preference>
+   <account_preference x:href="/REST/account_preference/12329/is_google_preview_link" x:type="simple">
+      <value>false</value>
+      <acc_id x:href="/REST/account/12329" x:type="simple"/>
+   </account_preference>
+   <account_preference x:href="/REST/account_preference/12329/summon_library_discovery_service_url" x:type="simple">
+      <value/>
+      <acc_id x:href="/REST/account/12329" x:type="simple"/>
+   </account_preference>
+   <account_preference x:href="/REST/account_preference/12329/primo_is_library_discovery_link" x:type="simple">
+      <value/>
+      <acc_id x:href="/REST/account/12329" x:type="simple"/>
+   </account_preference>
+   <account_preference x:href="/REST/account_preference/12329/jccc_information_resource_label_override" x:type="simple">
+      <value/>
+      <acc_id x:href="/REST/account/12329" x:type="simple"/>
+   </account_preference>
+   <account_preference x:href="/REST/account_preference/12329/summon_is_library_discovery_link" x:type="simple">
+      <value/>
+      <acc_id x:href="/REST/account/12329" x:type="simple"/>
+   </account_preference>
+   <account_preference x:href="/REST/account_preference/12329/is_artstor" x:type="simple">
+      <value>false</value>
+      <acc_id x:href="/REST/account/12329" x:type="simple"/>
+   </account_preference>
+   <account_preference x:href="/REST/account_preference/12329/proquest_url" x:type="simple">
+      <value/>
+      <acc_id x:href="/REST/account/12329" x:type="simple"/>
+   </account_preference>
+   <account_preference x:href="/REST/account_preference/12329/is_worldcat_search" x:type="simple">
+      <value>false</value>
+      <acc_id x:href="/REST/account/12329" x:type="simple"/>
+   </account_preference>
+   <account_preference x:href="/REST/account_preference/12329/ebrary_is_information_resource_search" x:type="simple">
+      <value/>
+      <acc_id x:href="/REST/account/12329" x:type="simple"/>
+   </account_preference>
+   <account_preference x:href="/REST/account_preference/12329/myilibrary_is_information_resource_search" x:type="simple">
+      <value/>
+      <acc_id x:href="/REST/account/12329" x:type="simple"/>
+   </account_preference>
+   <account_preference x:href="/REST/account_preference/12329/ebsco_is_library_discovery_search" x:type="simple">
+      <value/>
+      <acc_id x:href="/REST/account/12329" x:type="simple"/>
+   </account_preference>
+   <account_preference x:href="/REST/account_preference/12329/springerlink_is_information_resource_search" x:type="simple">
+      <value/>
+      <acc_id x:href="/REST/account/12329" x:type="simple"/>
+   </account_preference>
+   <account_preference x:href="/REST/account_preference/12329/springerlink_is_information_resource_link" x:type="simple">
+      <value/>
+      <acc_id x:href="/REST/account/12329" x:type="simple"/>
+   </account_preference>
+   <account_preference x:href="/REST/account_preference/12329/classical_music_library_url" x:type="simple">
+      <value/>
+      <acc_id x:href="/REST/account/12329" x:type="simple"/>
+   </account_preference>
+   <account_preference x:href="/REST/account_preference/12329/copac_is_information_resource_search" x:type="simple">
+      <value/>
+      <acc_id x:href="/REST/account/12329" x:type="simple"/>
+   </account_preference>
+   <account_preference x:href="/REST/account_preference/12329/library_discovery_service" x:type="simple">
+      <value/>
+      <acc_id x:href="/REST/account/12329" x:type="simple"/>
+   </account_preference>
+   <account_preference x:href="/REST/account_preference/12329/summon_is_library_discovery_search" x:type="simple">
+      <value/>
+      <acc_id x:href="/REST/account/12329" x:type="simple"/>
+   </account_preference>
+   <account_preference x:href="/REST/account_preference/12329/org_logo" x:type="simple">
+      <value>http://www.lib.umich.edu/graphics/provided-by/118x58.png</value>
+      <acc_id x:href="/REST/account/12329" x:type="simple"/>
+   </account_preference>
+   <account_preference x:href="/REST/account_preference/12329/cambridge_books_is_information_resource_search" x:type="simple">
+      <value/>
+      <acc_id x:href="/REST/account/12329" x:type="simple"/>
+   </account_preference>
+   <account_preference x:href="/REST/account_preference/12329/ebsco_information_resource_label_override" x:type="simple">
+      <value/>
+      <acc_id x:href="/REST/account/12329" x:type="simple"/>
+   </account_preference>
+   <account_preference x:href="/REST/account_preference/12329/oxford_index_is_information_resource_search" x:type="simple">
+      <value/>
+      <acc_id x:href="/REST/account/12329" x:type="simple"/>
+   </account_preference>
+   <account_preference x:href="/REST/account_preference/12329/are_downloadable_tools_enabled" x:type="simple">
+      <value>false</value>
+      <acc_id x:href="/REST/account/12329" x:type="simple"/>
+   </account_preference>
+   <account_preference x:href="/REST/account_preference/12329/jstor_information_resource_label_override" x:type="simple">
+      <value/>
+      <acc_id x:href="/REST/account/12329" x:type="simple"/>
+   </account_preference>
+   <account_preference x:href="/REST/account_preference/12329/myilibrary_information_resource_label_override" x:type="simple">
+      <value/>
+      <acc_id x:href="/REST/account/12329" x:type="simple"/>
+   </account_preference>
+</sams:resource>

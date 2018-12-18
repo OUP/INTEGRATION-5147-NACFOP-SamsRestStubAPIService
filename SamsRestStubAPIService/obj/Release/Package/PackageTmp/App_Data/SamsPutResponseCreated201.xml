@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sams:info xmlns:sams="http://semantico.com/xmlns/sams">
+   <sams:text sams:msgid="created">account: The resource was successfully created.</sams:text>
+</sams:info>
